@@ -49,7 +49,7 @@
         <mxCell id="97mAf6U9G7aBORvAxY8k-30" value="MySQL数据库" style="whiteSpace=wrap;strokeWidth=2;fontSize=25;" vertex="1" parent="1">
           <mxGeometry x="220" y="1061" width="220" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="97mAf6U9G7aBORvAxY8k-31" value="会员、消费、预约、礼品、充值" style="whiteSpace=wrap;strokeWidth=2;fontSize=25;" vertex="1" parent="1">
+        <mxCell id="97mAf6U9G7aBORvAxY8k-31" value="会员、消费、充值" style="whiteSpace=wrap;strokeWidth=2;fontSize=25;" vertex="1" parent="1">
           <mxGeometry x="245" y="1210" width="220" height="67" as="geometry" />
         </mxCell>
       </root>
