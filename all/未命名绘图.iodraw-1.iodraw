@@ -50,7 +50,7 @@
           <mxGeometry x="563.25" y="640" width="184.5" height="140" as="geometry" />
         </mxCell>
         <mxCell id="3Y5xCTVhRqRy2KR1GcjI-16" value="直接付款并写入消费记录" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="390" y="850" width="236" height="49" as="geometry" />
+          <mxGeometry x="295" y="780" width="236" height="49" as="geometry" />
         </mxCell>
         <mxCell id="3Y5xCTVhRqRy2KR1GcjI-17" value="余额是否充足" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="749.5" y="720" width="145" height="145" as="geometry" />
