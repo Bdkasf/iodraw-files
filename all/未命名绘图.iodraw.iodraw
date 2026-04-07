@@ -85,8 +85,14 @@
         <mxCell id="avgjTx9-wl4suVrIr1Yl-22" value="写入会员表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="150" y="470" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="avgjTx9-wl4suVrIr1Yl-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="avgjTx9-wl4suVrIr1Yl-28" target="avgjTx9-wl4suVrIr1Yl-43">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="avgjTx9-wl4suVrIr1Yl-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.683;exitY=1.025;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" source="avgjTx9-wl4suVrIr1Yl-28" target="avgjTx9-wl4suVrIr1Yl-43">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="262" y="420" />
+              <mxPoint x="290" y="420" />
+              <mxPoint x="290" y="595" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="avgjTx9-wl4suVrIr1Yl-28" value="执行模糊查询" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="380" width="120" height="40" as="geometry" />
@@ -102,6 +108,9 @@
         </mxCell>
         <mxCell id="avgjTx9-wl4suVrIr1Yl-32" value="修改后保存" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="444" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="avgjTx9-wl4suVrIr1Yl-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="avgjTx9-wl4suVrIr1Yl-34" target="avgjTx9-wl4suVrIr1Yl-43">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="avgjTx9-wl4suVrIr1Yl-34" value="更新会员信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="500" width="120" height="40" as="geometry" />
