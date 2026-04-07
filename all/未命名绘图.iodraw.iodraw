@@ -68,7 +68,7 @@
           <mxGeometry x="4400" y="775" width="170" height="49" as="geometry" />
         </mxCell>
         <mxCell id="ZhHS88tWq8llOajLPZ2o-20" value="MemberService" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="3646" y="1045" width="170" height="49" as="geometry" />
+          <mxGeometry x="3650" y="1045" width="170" height="49" as="geometry" />
         </mxCell>
         <mxCell id="ZhHS88tWq8llOajLPZ2o-21" value="会员画像分析" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="3054" y="1194" width="156" height="49" as="geometry" />
