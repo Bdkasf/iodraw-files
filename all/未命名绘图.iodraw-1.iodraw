@@ -26,7 +26,7 @@
           <mxGeometry x="93" y="450" width="236" height="49" as="geometry" />
         </mxCell>
         <mxCell id="4wDlF7Djv2WkwEUpA_HG-8" value="选择支付方式" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="400" y="60" width="156" height="49" as="geometry" />
+          <mxGeometry x="401" y="20" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="4wDlF7Djv2WkwEUpA_HG-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4wDlF7Djv2WkwEUpA_HG-9" target="4wDlF7Djv2WkwEUpA_HG-11">
           <mxGeometry relative="1" as="geometry" />
@@ -37,49 +37,49 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="4wDlF7Djv2WkwEUpA_HG-9" value="是否为余额结算" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="397.5" y="130" width="161" height="161" as="geometry" />
+          <mxGeometry x="398.5" y="90" width="161" height="161" as="geometry" />
         </mxCell>
         <mxCell id="4wDlF7Djv2WkwEUpA_HG-10" value="直接付款" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="386" y="380" width="124" height="49" as="geometry" />
+          <mxGeometry x="387" y="340" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="4wDlF7Djv2WkwEUpA_HG-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4wDlF7Djv2WkwEUpA_HG-11" target="4wDlF7Djv2WkwEUpA_HG-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4wDlF7Djv2WkwEUpA_HG-11" value="会员余额是否充足" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="526" y="334" width="130" height="121" as="geometry" />
+          <mxGeometry x="527" y="294" width="130" height="121" as="geometry" />
         </mxCell>
         <mxCell id="4wDlF7Djv2WkwEUpA_HG-12" value="提示余额不足或暂无余额" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="720" y="334" width="236" height="49" as="geometry" />
+          <mxGeometry x="721" y="294" width="236" height="49" as="geometry" />
         </mxCell>
         <mxCell id="4wDlF7Djv2WkwEUpA_HG-13" value="扣减会员余额" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="720" y="420" width="156" height="30" as="geometry" />
+          <mxGeometry x="721" y="380" width="156" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4wDlF7Djv2WkwEUpA_HG-14" value="写入消费记录" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="370" y="465" width="156" height="49" as="geometry" />
+          <mxGeometry x="371" y="425" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="4wDlF7Djv2WkwEUpA_HG-15" value="更新会员积分" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="370" y="550" width="156" height="49" as="geometry" />
+          <mxGeometry x="371" y="510" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="4wDlF7Djv2WkwEUpA_HG-16" value="更新累计消费金额" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="354" y="630" width="188" height="49" as="geometry" />
+          <mxGeometry x="355" y="590" width="188" height="49" as="geometry" />
         </mxCell>
         <mxCell id="4wDlF7Djv2WkwEUpA_HG-17" value="是否达到升级条件" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="570" y="566" width="177" height="177" as="geometry" />
+          <mxGeometry x="571" y="526" width="177" height="177" as="geometry" />
         </mxCell>
         <mxCell id="4wDlF7Djv2WkwEUpA_HG-18" value="自动升级会员等级" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="850" y="660" width="188" height="49" as="geometry" />
+          <mxGeometry x="851" y="620" width="188" height="49" as="geometry" />
         </mxCell>
         <mxCell id="4wDlF7Djv2WkwEUpA_HG-19" value="保持当前等级" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="850" y="570" width="156" height="49" as="geometry" />
+          <mxGeometry x="851" y="530" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="4wDlF7Djv2WkwEUpA_HG-50" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="4wDlF7Djv2WkwEUpA_HG-20" target="4wDlF7Djv2WkwEUpA_HG-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4wDlF7Djv2WkwEUpA_HG-20" value="写入操作日志" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1060" y="611" width="156" height="49" as="geometry" />
+          <mxGeometry x="1061" y="571" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="4wDlF7Djv2WkwEUpA_HG-21" value="刷新消费记录和看板" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1036" y="480" width="204" height="49" as="geometry" />
+          <mxGeometry x="1037" y="440" width="204" height="49" as="geometry" />
         </mxCell>
         <mxCell id="4wDlF7Djv2WkwEUpA_HG-23" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="4wDlF7Djv2WkwEUpA_HG-1" target="4wDlF7Djv2WkwEUpA_HG-2">
           <mxGeometry relative="1" as="geometry">
