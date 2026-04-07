@@ -37,11 +37,8 @@
         <mxCell id="97mAf6U9G7aBORvAxY8k-25" value="功能模块" style="whiteSpace=wrap;strokeWidth=2;spacing=10;fontSize=25;" vertex="1" parent="1">
           <mxGeometry x="230" y="405.5" width="124" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="97mAf6U9G7aBORvAxY8k-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="97mAf6U9G7aBORvAxY8k-26" target="97mAf6U9G7aBORvAxY8k-16">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="97mAf6U9G7aBORvAxY8k-26" value="MemberService" style="whiteSpace=wrap;strokeWidth=2;fontSize=25;" vertex="1" parent="1">
-          <mxGeometry x="377" y="704" width="170" height="49" as="geometry" />
+          <mxGeometry x="230" y="655.5" width="170" height="49" as="geometry" />
         </mxCell>
         <mxCell id="97mAf6U9G7aBORvAxY8k-27" value="DatabaseManager" style="whiteSpace=wrap;strokeWidth=2;fontSize=25;" vertex="1" parent="1">
           <mxGeometry x="369" y="853" width="186" height="49" as="geometry" />
