@@ -41,13 +41,13 @@
           <mxGeometry x="577.5" y="400" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="3Y5xCTVhRqRy2KR1GcjI-13" value="根据会员等级计算折扣" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="545.5" y="518" width="220" height="49" as="geometry" />
+          <mxGeometry x="545.5" y="470" width="220" height="49" as="geometry" />
         </mxCell>
         <mxCell id="3Y5xCTVhRqRy2KR1GcjI-14" value="计算实付金额与赠送积分" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="537.5" y="640" width="236" height="49" as="geometry" />
+          <mxGeometry x="538" y="560" width="236" height="49" as="geometry" />
         </mxCell>
         <mxCell id="3Y5xCTVhRqRy2KR1GcjI-15" value="支付方式是否为余额结算" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="543.5" y="739" width="225" height="225" as="geometry" />
+          <mxGeometry x="545.5" y="630" width="225" height="225" as="geometry" />
         </mxCell>
         <mxCell id="3Y5xCTVhRqRy2KR1GcjI-16" value="直接付款并写入消费记录" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="537.5" y="1407" width="236" height="49" as="geometry" />
