@@ -5,10 +5,10 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="97mAf6U9G7aBORvAxY8k-14" value="数据存储层" style="whiteSpace=wrap;strokeWidth=2;fontSize=25;" vertex="1" parent="1">
-          <mxGeometry x="202" y="1035.5" width="520" height="100" as="geometry" />
+          <mxGeometry x="210" y="835.5" width="520" height="100" as="geometry" />
         </mxCell>
         <mxCell id="97mAf6U9G7aBORvAxY8k-15" value="数据访问层" style="whiteSpace=wrap;strokeWidth=2;fontSize=25;" vertex="1" parent="1">
-          <mxGeometry x="202" y="830" width="520" height="100" as="geometry" />
+          <mxGeometry x="210" y="630" width="520" height="100" as="geometry" />
         </mxCell>
         <mxCell id="97mAf6U9G7aBORvAxY8k-16" value="业务逻辑层" style="whiteSpace=wrap;strokeWidth=2;spacingLeft=250;fontSize=25;" vertex="1" parent="1">
           <mxGeometry x="210" y="500" width="520" height="100" as="geometry" />
@@ -41,16 +41,16 @@
           <mxGeometry x="230" y="525.5" width="220" height="49" as="geometry" />
         </mxCell>
         <mxCell id="97mAf6U9G7aBORvAxY8k-27" value="DatabaseManager" style="whiteSpace=wrap;strokeWidth=2;fontSize=25;" vertex="1" parent="1">
-          <mxGeometry x="230" y="856" width="220" height="48" as="geometry" />
+          <mxGeometry x="238" y="656" width="220" height="48" as="geometry" />
         </mxCell>
         <mxCell id="97mAf6U9G7aBORvAxY8k-28" value="QSqlQuery" style="whiteSpace=wrap;strokeWidth=2;fontSize=25;" vertex="1" parent="1">
-          <mxGeometry x="550" y="856" width="136" height="49" as="geometry" />
+          <mxGeometry x="558" y="656" width="136" height="49" as="geometry" />
         </mxCell>
         <mxCell id="97mAf6U9G7aBORvAxY8k-30" value="MySQL数据库" style="whiteSpace=wrap;strokeWidth=2;fontSize=25;" vertex="1" parent="1">
-          <mxGeometry x="220" y="1061" width="220" height="49" as="geometry" />
+          <mxGeometry x="228" y="861" width="220" height="49" as="geometry" />
         </mxCell>
         <mxCell id="97mAf6U9G7aBORvAxY8k-31" value="会员、消费、充值" style="whiteSpace=wrap;strokeWidth=2;fontSize=25;" vertex="1" parent="1">
-          <mxGeometry x="498" y="1061" width="220" height="49" as="geometry" />
+          <mxGeometry x="506" y="861" width="220" height="49" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
