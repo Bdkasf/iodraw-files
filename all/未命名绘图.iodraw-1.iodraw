@@ -7,17 +7,20 @@
         <mxCell id="yGH4qePVHIzP8h_ANEZK-1" value="登录成功" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="331" y="30" width="124" height="49" as="geometry" />
         </mxCell>
+        <mxCell id="yGH4qePVHIzP8h_ANEZK-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="yGH4qePVHIzP8h_ANEZK-2" target="yGH4qePVHIzP8h_ANEZK-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="yGH4qePVHIzP8h_ANEZK-2" value="显示欢迎引导页" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="307" y="110" width="172" height="49" as="geometry" />
         </mxCell>
         <mxCell id="yGH4qePVHIzP8h_ANEZK-4" value="进入系统主界面" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="307" y="270" width="172" height="49" as="geometry" />
+          <mxGeometry x="307" y="180" width="172" height="49" as="geometry" />
         </mxCell>
         <mxCell id="yGH4qePVHIzP8h_ANEZK-5" value="进入报表统计页面" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="299" y="340" width="188" height="49" as="geometry" />
+          <mxGeometry x="299" y="250" width="188" height="49" as="geometry" />
         </mxCell>
         <mxCell id="yGH4qePVHIzP8h_ANEZK-6" value="显示趋势图" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="323" y="430" width="140" height="49" as="geometry" />
+          <mxGeometry x="323" y="310" width="140" height="49" as="geometry" />
         </mxCell>
         <mxCell id="yGH4qePVHIzP8h_ANEZK-7" value="是否放大查看" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="273" y="510" width="240" height="106" as="geometry" />
