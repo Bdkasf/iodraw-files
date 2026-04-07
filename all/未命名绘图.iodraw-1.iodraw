@@ -32,7 +32,7 @@
           <mxGeometry x="507" y="373.5" width="207" height="40" as="geometry" />
         </mxCell>
         <mxCell id="o-YJnA2EUqc50f2uyItU-10" value="查询消费趋势、充值趋势、项目消费趋势" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="507" y="450" width="233" height="60" as="geometry" />
+          <mxGeometry x="530" y="460" width="233" height="60" as="geometry" />
         </mxCell>
         <mxCell id="o-YJnA2EUqc50f2uyItU-11" value="生成线性趋势图" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="547" y="541" width="172" height="49" as="geometry" />
@@ -71,7 +71,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="o-YJnA2EUqc50f2uyItU-22" value="否" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.03;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;exitDx=0;exitDy=0;" edge="1" parent="1" source="o-YJnA2EUqc50f2uyItU-5" target="o-YJnA2EUqc50f2uyItU-8">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="500" y="342" />
+              <mxPoint x="500" y="466" />
+              <mxPoint x="320" y="466" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="o-YJnA2EUqc50f2uyItU-23" value="是" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;exitDx=0;exitDy=0;" edge="1" parent="1" source="o-YJnA2EUqc50f2uyItU-5" target="o-YJnA2EUqc50f2uyItU-9">
           <mxGeometry relative="1" as="geometry" />
