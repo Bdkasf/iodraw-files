@@ -29,10 +29,10 @@
           <mxGeometry x="297" y="400" width="190" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yGH4qePVHIzP8h_ANEZK-8" value="正常查看图表" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="150" y="481" width="204" height="49" as="geometry" />
+          <mxGeometry x="150" y="481" width="170" height="49" as="geometry" />
         </mxCell>
         <mxCell id="yGH4qePVHIzP8h_ANEZK-9" value="双击放大并滚轮缩放" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="420" y="481" width="204" height="49" as="geometry" />
+          <mxGeometry x="420" y="481" width="170" height="49" as="geometry" />
         </mxCell>
         <mxCell id="yGH4qePVHIzP8h_ANEZK-11" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontSize=18;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="yGH4qePVHIzP8h_ANEZK-1" target="yGH4qePVHIzP8h_ANEZK-2">
           <mxGeometry relative="1" as="geometry" />
