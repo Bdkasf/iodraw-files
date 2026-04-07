@@ -47,10 +47,10 @@
           <mxGeometry x="-20" y="630" width="220" height="49" as="geometry" />
         </mxCell>
         <mxCell id="97mAf6U9G7aBORvAxY8k-30" value="MySQL数据库" style="whiteSpace=wrap;strokeWidth=2;fontSize=25;" vertex="1" parent="1">
-          <mxGeometry x="-250" y="770" width="220" height="49" as="geometry" />
+          <mxGeometry x="-360" y="760" width="220" height="49" as="geometry" />
         </mxCell>
         <mxCell id="97mAf6U9G7aBORvAxY8k-31" value="会员、消费、充值" style="whiteSpace=wrap;strokeWidth=2;fontSize=25;" vertex="1" parent="1">
-          <mxGeometry x="-10" y="770" width="220" height="49" as="geometry" />
+          <mxGeometry x="-30" y="770" width="220" height="49" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
