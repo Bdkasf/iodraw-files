@@ -23,7 +23,7 @@
           <mxGeometry x="522" y="271" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="LUN7ujRJ9Dw9Ekqw7Z7X-7" value="预约调度" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="950" y="120" width="124" height="49" as="geometry" />
+          <mxGeometry x="730" y="300" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="LUN7ujRJ9Dw9Ekqw7Z7X-8" value="报表统计" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1877" y="41" width="124" height="49" as="geometry" />
@@ -140,6 +140,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="3392" y="94" />
+              <mxPoint x="920" y="250" />
             </Array>
           </mxGeometry>
         </mxCell>
