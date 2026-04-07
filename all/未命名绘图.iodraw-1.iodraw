@@ -40,10 +40,10 @@
           <mxGeometry x="360" y="250" width="150" height="50" as="geometry" />
         </mxCell>
         <mxCell id="LUN7ujRJ9Dw9Ekqw7Z7X-5" value="消费结算" style="whiteSpace=wrap;strokeWidth=2;fontSize=25;" vertex="1" parent="1">
-          <mxGeometry x="530" y="250" width="150" height="50" as="geometry" />
+          <mxGeometry x="520" y="250" width="150" height="50" as="geometry" />
         </mxCell>
         <mxCell id="LUN7ujRJ9Dw9Ekqw7Z7X-6" value="积分兑换" style="whiteSpace=wrap;strokeWidth=2;fontSize=25;" vertex="1" parent="1">
-          <mxGeometry x="570" y="250" width="150" height="50" as="geometry" />
+          <mxGeometry x="690" y="250" width="150" height="50" as="geometry" />
         </mxCell>
         <mxCell id="LUN7ujRJ9Dw9Ekqw7Z7X-7" value="预约调度" style="whiteSpace=wrap;strokeWidth=2;fontSize=25;flipH=1;" vertex="1" parent="1">
           <mxGeometry x="1190" y="100" width="150" height="50" as="geometry" />
