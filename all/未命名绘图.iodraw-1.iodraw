@@ -11,7 +11,7 @@
           <mxGeometry x="66" y="814" width="408" height="198" as="geometry" />
         </mxCell>
         <mxCell id="97mAf6U9G7aBORvAxY8k-16" value="业务逻辑层" style="whiteSpace=wrap;strokeWidth=2;spacingLeft=250;" vertex="1" parent="1">
-          <mxGeometry x="151" y="665" width="269" height="99" as="geometry" />
+          <mxGeometry x="120" y="665" width="300" height="99" as="geometry" />
         </mxCell>
         <mxCell id="97mAf6U9G7aBORvAxY8k-17" value="功能模块层" style="whiteSpace=wrap;strokeWidth=2;spacing=3;spacingLeft=200;" vertex="1" parent="1">
           <mxGeometry x="150" y="516" width="250" height="99" as="geometry" />
@@ -57,9 +57,6 @@
         </mxCell>
         <mxCell id="97mAf6U9G7aBORvAxY8k-31" value="会员、消费、预约、礼品、充值、日志等数据表" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="55" y="1186" width="252" height="67" as="geometry" />
-        </mxCell>
-        <mxCell id="97mAf6U9G7aBORvAxY8k-32" value="```" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="510" y="55" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="97mAf6U9G7aBORvAxY8k-33" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.14;entryY=0;rounded=0;" edge="1" parent="1" source="97mAf6U9G7aBORvAxY8k-20" target="97mAf6U9G7aBORvAxY8k-22">
           <mxGeometry relative="1" as="geometry">
