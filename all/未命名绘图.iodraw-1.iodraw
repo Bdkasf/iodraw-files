@@ -5,13 +5,13 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="97mAf6U9G7aBORvAxY8k-14" value="数据存储层" style="whiteSpace=wrap;strokeWidth=2;fontSize=25;" vertex="1" parent="1">
-          <mxGeometry x="210" y="770" width="720" height="100" as="geometry" />
+          <mxGeometry x="210" y="740" width="720" height="100" as="geometry" />
         </mxCell>
         <mxCell id="97mAf6U9G7aBORvAxY8k-15" value="数据访问层" style="whiteSpace=wrap;strokeWidth=2;fontSize=25;" vertex="1" parent="1">
-          <mxGeometry x="210" y="630" width="720" height="100" as="geometry" />
+          <mxGeometry x="210" y="604.5" width="720" height="100" as="geometry" />
         </mxCell>
         <mxCell id="97mAf6U9G7aBORvAxY8k-16" value="业务逻辑层" style="whiteSpace=wrap;strokeWidth=2;spacingLeft=0;fontSize=25;" vertex="1" parent="1">
-          <mxGeometry x="210" y="500" width="720" height="100" as="geometry" />
+          <mxGeometry x="210" y="474.5" width="720" height="100" as="geometry" />
         </mxCell>
         <mxCell id="97mAf6U9G7aBORvAxY8k-17" value="功能模块层" style="whiteSpace=wrap;strokeWidth=2;spacing=3;spacingLeft=0;fontSize=25;" vertex="1" parent="1">
           <mxGeometry x="210" y="354.5" width="720" height="100" as="geometry" />
@@ -38,7 +38,7 @@
           <mxGeometry x="260" y="405.5" width="220" height="49" as="geometry" />
         </mxCell>
         <mxCell id="97mAf6U9G7aBORvAxY8k-26" value="MemberService" style="whiteSpace=wrap;strokeWidth=2;fontSize=25;" vertex="1" parent="1">
-          <mxGeometry x="260" y="525.5" width="220" height="49" as="geometry" />
+          <mxGeometry x="260" y="500" width="220" height="49" as="geometry" />
         </mxCell>
         <mxCell id="97mAf6U9G7aBORvAxY8k-27" value="DatabaseManager" style="whiteSpace=wrap;strokeWidth=2;fontSize=25;" vertex="1" parent="1">
           <mxGeometry x="700" y="650" width="220" height="49" as="geometry" />
