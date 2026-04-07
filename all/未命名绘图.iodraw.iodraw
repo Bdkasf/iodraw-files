@@ -162,8 +162,18 @@
         <mxCell id="avgjTx9-wl4suVrIr1Yl-50" value="金额是否有效" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="650" y="360" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="avgjTx9-wl4suVrIr1Yl-58" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="avgjTx9-wl4suVrIr1Yl-52">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="690" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="avgjTx9-wl4suVrIr1Yl-59" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="avgjTx9-wl4suVrIr1Yl-58">
+          <mxGeometry x="-0.2571" y="4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="avgjTx9-wl4suVrIr1Yl-52" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="760" y="405" width="120" height="35" as="geometry" />
+          <mxGeometry x="750" y="385" width="120" height="35" as="geometry" />
         </mxCell>
         <mxCell id="avgjTx9-wl4suVrIr1Yl-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="avgjTx9-wl4suVrIr1Yl-53" target="avgjTx9-wl4suVrIr1Yl-43">
           <mxGeometry relative="1" as="geometry" />
