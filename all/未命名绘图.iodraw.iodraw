@@ -67,22 +67,22 @@
           <mxGeometry x="374" y="1000" width="209" height="209" as="geometry" />
         </mxCell>
         <mxCell id="Jfw2tQfTeO33Q57Rp1w0-42" value="提示登录失败" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="304" y="1418" width="156" height="49" as="geometry" />
+          <mxGeometry x="60" y="1070" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="Jfw2tQfTeO33Q57Rp1w0-43" value="写入登录审计日志" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="414" y="1250" width="188" height="49" as="geometry" />
         </mxCell>
         <mxCell id="Jfw2tQfTeO33Q57Rp1w0-44" value="显示欢迎引导页" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="518" y="1517" width="172" height="49" as="geometry" />
+          <mxGeometry x="422" y="1320" width="172" height="49" as="geometry" />
         </mxCell>
         <mxCell id="Jfw2tQfTeO33Q57Rp1w0-45" value="点击开始协同管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="510" y="1616" width="188" height="49" as="geometry" />
+          <mxGeometry x="414" y="1390" width="188" height="49" as="geometry" />
         </mxCell>
         <mxCell id="Jfw2tQfTeO33Q57Rp1w0-46" value="进入系统主界面" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="518" y="1715" width="172" height="49" as="geometry" />
+          <mxGeometry x="422" y="1470" width="172" height="49" as="geometry" />
         </mxCell>
         <mxCell id="Jfw2tQfTeO33Q57Rp1w0-47" value="当前角色是否为管理员" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="500" y="1814" width="209" height="209" as="geometry" />
+          <mxGeometry x="403.5" y="1545" width="209" height="209" as="geometry" />
         </mxCell>
         <mxCell id="Jfw2tQfTeO33Q57Rp1w0-48" value="开放全部管理功能" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="629" y="2096" width="188" height="49" as="geometry" />
