@@ -23,16 +23,16 @@
           <mxGeometry x="520" y="250" width="150" height="50" as="geometry" />
         </mxCell>
         <mxCell id="LUN7ujRJ9Dw9Ekqw7Z7X-6" value="积分兑换" style="whiteSpace=wrap;strokeWidth=2;fontSize=25;" vertex="1" parent="1">
-          <mxGeometry x="690" y="250" width="150" height="50" as="geometry" />
+          <mxGeometry x="680" y="250" width="150" height="50" as="geometry" />
         </mxCell>
         <mxCell id="LUN7ujRJ9Dw9Ekqw7Z7X-7" value="预约调度" style="whiteSpace=wrap;strokeWidth=2;fontSize=25;flipH=1;" vertex="1" parent="1">
-          <mxGeometry x="860" y="250" width="150" height="50" as="geometry" />
+          <mxGeometry x="840" y="250" width="150" height="50" as="geometry" />
         </mxCell>
         <mxCell id="LUN7ujRJ9Dw9Ekqw7Z7X-8" value="报表统计" style="whiteSpace=wrap;strokeWidth=2;fontSize=25;flipH=1;" vertex="1" parent="1">
-          <mxGeometry x="1190" y="220" width="150" height="50" as="geometry" />
+          <mxGeometry x="1000" y="250" width="150" height="50" as="geometry" />
         </mxCell>
         <mxCell id="LUN7ujRJ9Dw9Ekqw7Z7X-9" value="账号管理" style="whiteSpace=wrap;strokeWidth=2;fontSize=25;flipH=1;" vertex="1" parent="1">
-          <mxGeometry x="1190" y="350" width="150" height="50" as="geometry" />
+          <mxGeometry x="1160" y="250" width="150" height="50" as="geometry" />
         </mxCell>
         <mxCell id="LUN7ujRJ9Dw9Ekqw7Z7X-10" value="操作审计" style="whiteSpace=wrap;strokeWidth=2;fontSize=25;flipH=1;" vertex="1" parent="1">
           <mxGeometry x="1190" y="500" width="150" height="50" as="geometry" />
