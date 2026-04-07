@@ -67,10 +67,10 @@
           <mxGeometry x="580" y="566" width="177" height="177" as="geometry" />
         </mxCell>
         <mxCell id="4wDlF7Djv2WkwEUpA_HG-18" value="自动升级会员等级" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="240" y="1008" width="188" height="49" as="geometry" />
+          <mxGeometry x="704" y="970" width="188" height="49" as="geometry" />
         </mxCell>
         <mxCell id="4wDlF7Djv2WkwEUpA_HG-19" value="保持当前等级" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="478" y="1008" width="156" height="49" as="geometry" />
+          <mxGeometry x="860" y="510" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="4wDlF7Djv2WkwEUpA_HG-20" value="写入操作日志" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="367" y="1107" width="156" height="49" as="geometry" />
