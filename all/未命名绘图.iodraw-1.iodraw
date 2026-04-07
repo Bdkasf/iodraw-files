@@ -17,7 +17,7 @@
           <mxGeometry x="250" y="230" width="130" height="100" as="geometry" />
         </mxCell>
         <mxCell id="o-YJnA2EUqc50f2uyItU-5" value="是否进入报表统计页" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="414" y="216.75" width="136" height="126.5" as="geometry" />
+          <mxGeometry x="428" y="218.38" width="146" height="123.25" as="geometry" />
         </mxCell>
         <mxCell id="o-YJnA2EUqc50f2uyItU-6" value="查询对应会员明细或排行数据" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="60" y="360" width="252" height="67" as="geometry" />
@@ -29,7 +29,7 @@
           <mxGeometry x="405" y="1627" width="92" height="49" as="geometry" />
         </mxCell>
         <mxCell id="o-YJnA2EUqc50f2uyItU-9" value="选择统计维度: 日/月" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="428" y="842" width="207" height="49" as="geometry" />
+          <mxGeometry x="550" y="390" width="207" height="49" as="geometry" />
         </mxCell>
         <mxCell id="o-YJnA2EUqc50f2uyItU-10" value="查询消费趋势、充值趋势、项目消费趋势" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="405" y="950" width="252" height="67" as="geometry" />
