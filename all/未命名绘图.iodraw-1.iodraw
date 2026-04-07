@@ -115,8 +115,14 @@
         <mxCell id="qdfP1Zq6PderVdKy93vA-34" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="qdfP1Zq6PderVdKy93vA-8" target="qdfP1Zq6PderVdKy93vA-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qdfP1Zq6PderVdKy93vA-35" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0;entryY=0.26;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="qdfP1Zq6PderVdKy93vA-9" target="qdfP1Zq6PderVdKy93vA-7">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="qdfP1Zq6PderVdKy93vA-35" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;entryDx=0;entryDy=0;" edge="1" parent="1" source="qdfP1Zq6PderVdKy93vA-9" target="qdfP1Zq6PderVdKy93vA-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="524" y="710" />
+              <mxPoint x="730" y="710" />
+              <mxPoint x="730" y="790" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="qdfP1Zq6PderVdKy93vA-36" value="修改会员" style="startArrow=none;endArrow=block;exitX=0;exitY=0.83;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="qdfP1Zq6PderVdKy93vA-2" target="qdfP1Zq6PderVdKy93vA-10">
           <mxGeometry relative="1" as="geometry" />
