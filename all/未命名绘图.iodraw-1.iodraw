@@ -13,11 +13,14 @@
         <mxCell id="yGH4qePVHIzP8h_ANEZK-2" value="显示欢迎引导页" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="307" y="110" width="170" height="49" as="geometry" />
         </mxCell>
+        <mxCell id="yGH4qePVHIzP8h_ANEZK-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="yGH4qePVHIzP8h_ANEZK-4" target="yGH4qePVHIzP8h_ANEZK-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="yGH4qePVHIzP8h_ANEZK-4" value="进入系统主界面" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="307" y="180" width="172" height="49" as="geometry" />
         </mxCell>
         <mxCell id="yGH4qePVHIzP8h_ANEZK-5" value="进入报表统计页面" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="307" y="260" width="170" height="49" as="geometry" />
+          <mxGeometry x="308" y="250" width="170" height="49" as="geometry" />
         </mxCell>
         <mxCell id="yGH4qePVHIzP8h_ANEZK-6" value="显示趋势图" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="300" y="350" width="170" height="49" as="geometry" />
@@ -32,9 +35,6 @@
           <mxGeometry x="414" y="660" width="204" height="49" as="geometry" />
         </mxCell>
         <mxCell id="yGH4qePVHIzP8h_ANEZK-11" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontSize=18;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="yGH4qePVHIzP8h_ANEZK-1" target="yGH4qePVHIzP8h_ANEZK-2">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="yGH4qePVHIzP8h_ANEZK-14" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontSize=18;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="yGH4qePVHIzP8h_ANEZK-4" target="yGH4qePVHIzP8h_ANEZK-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yGH4qePVHIzP8h_ANEZK-15" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontSize=18;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="yGH4qePVHIzP8h_ANEZK-5" target="yGH4qePVHIzP8h_ANEZK-6">
