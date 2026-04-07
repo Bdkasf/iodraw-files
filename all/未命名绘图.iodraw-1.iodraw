@@ -14,7 +14,7 @@
           <mxGeometry x="361" y="190" width="160" height="102" as="geometry" />
         </mxCell>
         <mxCell id="3Y5xCTVhRqRy2KR1GcjI-4" value="输入充值金额" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="115.5" y="1255" width="156" height="49" as="geometry" />
+          <mxGeometry x="140" y="310" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="3Y5xCTVhRqRy2KR1GcjI-5" value="金额是否大于0" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="116.5" y="1354" width="154" height="154" as="geometry" />
