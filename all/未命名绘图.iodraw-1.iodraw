@@ -17,13 +17,13 @@
           <mxGeometry x="165" y="240" width="254" height="67" as="geometry" />
         </mxCell>
         <mxCell id="8jbCcZedk1J-at91qC05-5" value="经营看板加载" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="478" y="20" width="156" height="49" as="geometry" />
+          <mxGeometry x="467" y="20" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="8jbCcZedk1J-at91qC05-6" value="统计待处理事项" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="470" y="119" width="172" height="49" as="geometry" />
+          <mxGeometry x="459" y="100" width="172" height="49" as="geometry" />
         </mxCell>
         <mxCell id="8jbCcZedk1J-at91qC05-7" value="点击待处理事项" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="475" y="218" width="161" height="161" as="geometry" />
+          <mxGeometry x="464.5" y="168" width="161" height="161" as="geometry" />
         </mxCell>
         <mxCell id="8jbCcZedk1J-at91qC05-8" value="结束" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="467" y="1001" width="92" height="49" as="geometry" />
