@@ -17,10 +17,10 @@
           <mxGeometry x="261" y="300" width="230" height="100" as="geometry" />
         </mxCell>
         <mxCell id="fom5yYNhUgjhsplKfidb-5" value="写入消费记录" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="298" y="634" width="156" height="49" as="geometry" />
+          <mxGeometry x="140" y="535" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="fom5yYNhUgjhsplKfidb-6" value="校验余额并扣减" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="356" y="535" width="172" height="49" as="geometry" />
+          <mxGeometry x="440" y="535" width="172" height="49" as="geometry" />
         </mxCell>
         <mxCell id="fom5yYNhUgjhsplKfidb-7" value="更新积分、累计消费和会员等级" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="250" y="733" width="252" height="67" as="geometry" />
@@ -34,16 +34,19 @@
         <mxCell id="fom5yYNhUgjhsplKfidb-11" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="fom5yYNhUgjhsplKfidb-3" target="fom5yYNhUgjhsplKfidb-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fom5yYNhUgjhsplKfidb-12" value="否" style="startArrow=none;endArrow=block;exitX=0.2;exitY=1;entryX=0.29;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="fom5yYNhUgjhsplKfidb-4" target="fom5yYNhUgjhsplKfidb-5">
+        <mxCell id="fom5yYNhUgjhsplKfidb-12" value="否" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.29;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;exitDx=0;exitDy=0;" edge="1" parent="1" source="fom5yYNhUgjhsplKfidb-4" target="fom5yYNhUgjhsplKfidb-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fom5yYNhUgjhsplKfidb-13" value="是" style="startArrow=none;endArrow=block;exitX=0.8;exitY=1;entryX=0.5;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="fom5yYNhUgjhsplKfidb-4" target="fom5yYNhUgjhsplKfidb-6">
+        <mxCell id="fom5yYNhUgjhsplKfidb-13" value="是" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;exitDx=0;exitDy=0;" edge="1" parent="1" source="fom5yYNhUgjhsplKfidb-4" target="fom5yYNhUgjhsplKfidb-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fom5yYNhUgjhsplKfidb-14" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.71;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="fom5yYNhUgjhsplKfidb-6" target="fom5yYNhUgjhsplKfidb-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fom5yYNhUgjhsplKfidb-15" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="fom5yYNhUgjhsplKfidb-5" target="fom5yYNhUgjhsplKfidb-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fom5yYNhUgjhsplKfidb-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="fom5yYNhUgjhsplKfidb-6" target="fom5yYNhUgjhsplKfidb-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
