@@ -23,7 +23,7 @@
           <mxGeometry x="430" y="270" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MxC0k0eCb2cJM5Vlk7o0-5" value="&lt;b&gt;项目选择&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="230" y="180" width="100" height="50" as="geometry" />
+          <mxGeometry x="230" y="140" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="MxC0k0eCb2cJM5Vlk7o0-6" value="&lt;b&gt;记录生成&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="240" width="100" height="50" as="geometry" />
@@ -77,7 +77,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="MxC0k0eCb2cJM5Vlk7o0-16" value="&lt;b&gt;消费记录查询&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="230" y="120" width="100" height="50" as="geometry" />
+          <mxGeometry x="240" y="80" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="MxC0k0eCb2cJM5Vlk7o0-17" value="&lt;b&gt;消费项目维护&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="420" width="100" height="50" as="geometry" />
@@ -97,10 +97,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="MxC0k0eCb2cJM5Vlk7o0-23" value="&lt;b&gt;积分规划配置&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="75" y="390" width="100" height="50" as="geometry" />
+          <mxGeometry x="10" y="120" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="MxC0k0eCb2cJM5Vlk7o0-24" value="&lt;b&gt;折扣规则配置&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="75" y="130" width="100" height="50" as="geometry" />
+          <mxGeometry x="110" y="120" width="100" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
