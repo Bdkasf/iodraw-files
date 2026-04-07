@@ -30,7 +30,7 @@
         <mxCell id="LUN7ujRJ9Dw9Ekqw7Z7X-1" value="温泉会员管理系统" style="whiteSpace=wrap;strokeWidth=2;fontSize=25;" vertex="1" parent="1">
           <mxGeometry x="488" y="390" width="188" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="LUN7ujRJ9Dw9Ekqw7Z7X-2" value="登录与欢迎引导" style="whiteSpace=wrap;strokeWidth=2;fontSize=25;" vertex="1" parent="1">
+        <mxCell id="LUN7ujRJ9Dw9Ekqw7Z7X-2" value="登录与欢迎" style="whiteSpace=wrap;strokeWidth=2;fontSize=25;" vertex="1" parent="1">
           <mxGeometry x="242" y="200" width="150" height="50" as="geometry" />
         </mxCell>
         <mxCell id="LUN7ujRJ9Dw9Ekqw7Z7X-3" value="经营看板" style="whiteSpace=wrap;strokeWidth=2;fontSize=25;" vertex="1" parent="1">
