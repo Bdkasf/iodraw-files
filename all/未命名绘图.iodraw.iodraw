@@ -97,8 +97,8 @@
         <mxCell id="avgjTx9-wl4suVrIr1Yl-32" value="修改后保存" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="444" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="avgjTx9-wl4suVrIr1Yl-34" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="510" width="120" height="60" as="geometry" />
+        <mxCell id="avgjTx9-wl4suVrIr1Yl-34" value="更新会员信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="510" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
