@@ -35,7 +35,7 @@
           <mxGeometry x="4722" y="119" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="LUN7ujRJ9Dw9Ekqw7Z7X-11" value="登录认证" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-160" y="149" width="124" height="49" as="geometry" />
+          <mxGeometry x="-240" y="10" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="LUN7ujRJ9Dw9Ekqw7Z7X-12" value="角色权限" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="14" y="149" width="124" height="49" as="geometry" />
