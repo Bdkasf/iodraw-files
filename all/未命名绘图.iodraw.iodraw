@@ -52,8 +52,14 @@
             <mxPoint x="320" y="260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="avgjTx9-wl4suVrIr1Yl-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="avgjTx9-wl4suVrIr1Yl-18" target="avgjTx9-wl4suVrIr1Yl-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="avgjTx9-wl4suVrIr1Yl-18" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="10" y="360" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="avgjTx9-wl4suVrIr1Yl-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="avgjTx9-wl4suVrIr1Yl-20" target="avgjTx9-wl4suVrIr1Yl-21">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="avgjTx9-wl4suVrIr1Yl-20" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="30" y="440" width="80" height="80" as="geometry" />
