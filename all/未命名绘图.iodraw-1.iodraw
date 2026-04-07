@@ -32,19 +32,19 @@
           <mxGeometry x="507" y="373.5" width="207" height="40" as="geometry" />
         </mxCell>
         <mxCell id="o-YJnA2EUqc50f2uyItU-10" value="查询消费趋势、充值趋势、项目消费趋势" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="405" y="950" width="252" height="67" as="geometry" />
+          <mxGeometry x="507" y="450" width="252" height="67" as="geometry" />
         </mxCell>
         <mxCell id="o-YJnA2EUqc50f2uyItU-11" value="生成线性趋势图" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="445" y="1066" width="172" height="49" as="geometry" />
+          <mxGeometry x="547" y="566" width="172" height="49" as="geometry" />
         </mxCell>
         <mxCell id="o-YJnA2EUqc50f2uyItU-12" value="是否双击图表" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="459" y="1188" width="145" height="145" as="geometry" />
+          <mxGeometry x="561" y="688" width="145" height="145" as="geometry" />
         </mxCell>
         <mxCell id="o-YJnA2EUqc50f2uyItU-13" value="弹出放大窗口" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="526" y="1406" width="156" height="49" as="geometry" />
+          <mxGeometry x="628" y="906" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="o-YJnA2EUqc50f2uyItU-14" value="滚轮缩放查看曲线细节" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="494" y="1528" width="220" height="49" as="geometry" />
+          <mxGeometry x="596" y="1028" width="220" height="49" as="geometry" />
         </mxCell>
         <mxCell id="o-YJnA2EUqc50f2uyItU-16" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="o-YJnA2EUqc50f2uyItU-1" target="o-YJnA2EUqc50f2uyItU-2">
           <mxGeometry relative="1" as="geometry">
