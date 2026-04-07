@@ -32,10 +32,10 @@
           <mxGeometry x="703" y="390" width="150" height="50" as="geometry" />
         </mxCell>
         <mxCell id="LUN7ujRJ9Dw9Ekqw7Z7X-9" value="账号管理" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="720" y="584.5" width="124" height="49" as="geometry" />
+          <mxGeometry x="720" y="584.5" width="150" height="50" as="geometry" />
         </mxCell>
         <mxCell id="LUN7ujRJ9Dw9Ekqw7Z7X-10" value="操作审计" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="522" y="508" width="124" height="49" as="geometry" />
+          <mxGeometry x="522" y="508" width="150" height="50" as="geometry" />
         </mxCell>
         <mxCell id="LUN7ujRJ9Dw9Ekqw7Z7X-26" value="礼品兑换" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="370" y="110" width="120" height="50" as="geometry" />
