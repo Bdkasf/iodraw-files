@@ -58,7 +58,7 @@
           <mxGeometry x="530" y="566" width="177" height="177" as="geometry" />
         </mxCell>
         <mxCell id="Jfw2tQfTeO33Q57Rp1w0-39" value="提示输入不完整" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry y="630" width="172" height="49" as="geometry" />
+          <mxGeometry x="294" y="760" width="172" height="49" as="geometry" />
         </mxCell>
         <mxCell id="Jfw2tQfTeO33Q57Rp1w0-40" value="调用登录验证接口" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="524.5" y="770" width="188" height="49" as="geometry" />
