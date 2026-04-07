@@ -20,16 +20,16 @@
           <mxGeometry x="110" y="760" width="172" height="49" as="geometry" />
         </mxCell>
         <mxCell id="qdfP1Zq6PderVdKy93vA-6" value="写入会员表" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="306" y="760" width="140" height="49" as="geometry" />
+          <mxGeometry x="330" y="640" width="140" height="49" as="geometry" />
         </mxCell>
         <mxCell id="qdfP1Zq6PderVdKy93vA-7" value="刷新会员列表" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="779" y="1012" width="156" height="49" as="geometry" />
+          <mxGeometry x="779" y="1040" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="qdfP1Zq6PderVdKy93vA-8" value="输入关键字" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="454" y="298" width="140" height="49" as="geometry" />
         </mxCell>
         <mxCell id="qdfP1Zq6PderVdKy93vA-9" value="执行模糊查询" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="446" y="904" width="156" height="49" as="geometry" />
+          <mxGeometry x="446" y="460" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="qdfP1Zq6PderVdKy93vA-10" value="选中会员记录" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="644" y="298" width="156" height="49" as="geometry" />
@@ -41,7 +41,7 @@
           <mxGeometry x="652" y="600" width="140" height="49" as="geometry" />
         </mxCell>
         <mxCell id="qdfP1Zq6PderVdKy93vA-13" value="更新会员信息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="652" y="904" width="156" height="49" as="geometry" />
+          <mxGeometry x="694" y="774" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="qdfP1Zq6PderVdKy93vA-14" value="管理员选择会员" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="850" y="298" width="172" height="49" as="geometry" />
