@@ -11,7 +11,7 @@
           <mxGeometry x="339" y="119" width="204" height="49" as="geometry" />
         </mxCell>
         <mxCell id="3Y5xCTVhRqRy2KR1GcjI-3" value="执行充值还是消费结算" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="337" y="218" width="209" height="102" as="geometry" />
+          <mxGeometry x="361" y="190" width="160" height="102" as="geometry" />
         </mxCell>
         <mxCell id="3Y5xCTVhRqRy2KR1GcjI-4" value="输入充值金额" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="147" y="1435" width="156" height="49" as="geometry" />
