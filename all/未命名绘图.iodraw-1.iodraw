@@ -14,10 +14,10 @@
           <mxGeometry x="266" y="250" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="LUN7ujRJ9Dw9Ekqw7Z7X-4" value="会员管理" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="270" y="331" width="124" height="49" as="geometry" />
+          <mxGeometry x="280" y="411" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="LUN7ujRJ9Dw9Ekqw7Z7X-5" value="消费结算" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="300" y="601" width="124" height="49" as="geometry" />
+          <mxGeometry x="280" y="584.5" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="LUN7ujRJ9Dw9Ekqw7Z7X-6" value="积分兑换" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="522" y="271" width="124" height="49" as="geometry" />
