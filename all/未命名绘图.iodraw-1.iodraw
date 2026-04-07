@@ -7,28 +7,11 @@
         <mxCell id="MxC0k0eCb2cJM5Vlk7o0-1" value="管理员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="300" y="310" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="MxC0k0eCb2cJM5Vlk7o0-5" value="&lt;b&gt;会员充值&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="185" width="100" height="50" as="geometry" />
-        </mxCell>
         <mxCell id="MxC0k0eCb2cJM5Vlk7o0-7" value="&lt;b&gt;支付方式&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="285" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="MxC0k0eCb2cJM5Vlk7o0-8" value="&lt;b&gt;余额校验&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="335" width="100" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="MxC0k0eCb2cJM5Vlk7o0-9" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="MxC0k0eCb2cJM5Vlk7o0-1" target="MxC0k0eCb2cJM5Vlk7o0-5">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="360" y="335" as="sourcePoint" />
-            <mxPoint x="420" y="265" as="targetPoint" />
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="MxC0k0eCb2cJM5Vlk7o0-10" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="MxC0k0eCb2cJM5Vlk7o0-1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="380" y="325" as="sourcePoint" />
-            <mxPoint x="400" y="260" as="targetPoint" />
-            <Array as="points" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="MxC0k0eCb2cJM5Vlk7o0-11" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="MxC0k0eCb2cJM5Vlk7o0-1" target="MxC0k0eCb2cJM5Vlk7o0-7">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -62,14 +45,6 @@
             <mxPoint x="340" y="420" as="sourcePoint" />
             <mxPoint x="440" y="400" as="targetPoint" />
             <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="MxC0k0eCb2cJM5Vlk7o0-35" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.3333333333333333;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" source="MxC0k0eCb2cJM5Vlk7o0-34" target="MxC0k0eCb2cJM5Vlk7o0-5">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="MxC0k0eCb2cJM5Vlk7o0-36" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="MxC0k0eCb2cJM5Vlk7o0-34">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="500" y="260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="MxC0k0eCb2cJM5Vlk7o0-37" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="MxC0k0eCb2cJM5Vlk7o0-34" target="MxC0k0eCb2cJM5Vlk7o0-7">
