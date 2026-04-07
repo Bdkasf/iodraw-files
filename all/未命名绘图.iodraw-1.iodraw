@@ -11,10 +11,10 @@
           <mxGeometry x="257" y="828" width="408" height="198" as="geometry" />
         </mxCell>
         <mxCell id="97mAf6U9G7aBORvAxY8k-16" value="业务逻辑层" style="whiteSpace=wrap;strokeWidth=2;spacingLeft=250;fontSize=25;" vertex="1" parent="1">
-          <mxGeometry x="240" y="679" width="510" height="99" as="geometry" />
+          <mxGeometry x="210" y="654" width="510" height="99" as="geometry" />
         </mxCell>
         <mxCell id="97mAf6U9G7aBORvAxY8k-17" value="功能模块层" style="whiteSpace=wrap;strokeWidth=2;spacing=3;spacingLeft=200;fontSize=25;" vertex="1" parent="1">
-          <mxGeometry x="210" y="530" width="520" height="180" as="geometry" />
+          <mxGeometry x="210" y="430" width="520" height="180" as="geometry" />
         </mxCell>
         <mxCell id="97mAf6U9G7aBORvAxY8k-18" value="界面表现层" style="strokeWidth=2;horizontal=1;verticalAlign=middle;spacingLeft=350;fontSize=25;" vertex="1" parent="1">
           <mxGeometry x="210" y="220" width="520" height="180" as="geometry" />
