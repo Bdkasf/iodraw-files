@@ -26,7 +26,7 @@
           <mxGeometry x="703" y="310" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="LUN7ujRJ9Dw9Ekqw7Z7X-8" value="报表统计" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1133" y="610" width="124" height="49" as="geometry" />
+          <mxGeometry x="720" y="459" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="LUN7ujRJ9Dw9Ekqw7Z7X-9" value="账号管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1572" y="610" width="124" height="49" as="geometry" />
@@ -230,7 +230,7 @@
             <mxPoint x="1170" y="200" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LUN7ujRJ9Dw9Ekqw7Z7X-71" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.76;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="LUN7ujRJ9Dw9Ekqw7Z7X-8" target="LUN7ujRJ9Dw9Ekqw7Z7X-32">
+        <mxCell id="LUN7ujRJ9Dw9Ekqw7Z7X-71" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.5;entryY=0;rounded=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="LUN7ujRJ9Dw9Ekqw7Z7X-8" target="LUN7ujRJ9Dw9Ekqw7Z7X-32">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="954" y="684" />
