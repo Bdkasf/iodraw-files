@@ -14,7 +14,7 @@
           <mxGeometry x="281.5" y="302" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="LUN7ujRJ9Dw9Ekqw7Z7X-4" value="会员管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="267" y="440" width="124" height="49" as="geometry" />
+          <mxGeometry x="290" y="420" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="LUN7ujRJ9Dw9Ekqw7Z7X-5" value="消费结算" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="283" y="650" width="124" height="49" as="geometry" />
@@ -53,16 +53,16 @@
           <mxGeometry x="95.5" y="351" width="140" height="49" as="geometry" />
         </mxCell>
         <mxCell id="LUN7ujRJ9Dw9Ekqw7Z7X-18" value="会员 CRUD" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="59" y="430" width="136" height="49" as="geometry" />
+          <mxGeometry x="82" y="410" width="136" height="49" as="geometry" />
         </mxCell>
         <mxCell id="LUN7ujRJ9Dw9Ekqw7Z7X-19" value="会员充值" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="65" y="489" width="124" height="49" as="geometry" />
+          <mxGeometry x="88" y="469" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="LUN7ujRJ9Dw9Ekqw7Z7X-20" value="会员标签" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="65" y="550" width="124" height="49" as="geometry" />
+          <mxGeometry x="88" y="530" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="LUN7ujRJ9Dw9Ekqw7Z7X-21" value="会员画像分析" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="65" y="610" width="156" height="49" as="geometry" />
+          <mxGeometry x="88" y="590" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="LUN7ujRJ9Dw9Ekqw7Z7X-22" value="项目选择" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="60" y="670" width="124" height="49" as="geometry" />
