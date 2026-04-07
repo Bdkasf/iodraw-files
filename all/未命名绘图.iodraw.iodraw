@@ -7,8 +7,10 @@
         <mxCell id="avgjTx9-wl4suVrIr1Yl-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="354" y="120" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="avgjTx9-wl4suVrIr1Yl-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="avgjTx9-wl4suVrIr1Yl-3" target="avgjTx9-wl4suVrIr1Yl-4">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="avgjTx9-wl4suVrIr1Yl-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="avgjTx9-wl4suVrIr1Yl-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="130" y="240" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="avgjTx9-wl4suVrIr1Yl-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="avgjTx9-wl4suVrIr1Yl-3" target="avgjTx9-wl4suVrIr1Yl-7">
           <mxGeometry relative="1" as="geometry" />
@@ -25,11 +27,10 @@
         <mxCell id="avgjTx9-wl4suVrIr1Yl-3" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="374" y="200" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="avgjTx9-wl4suVrIr1Yl-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="avgjTx9-wl4suVrIr1Yl-4" target="avgjTx9-wl4suVrIr1Yl-18">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="avgjTx9-wl4suVrIr1Yl-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="10" y="210" width="120" height="60" as="geometry" />
+        <mxCell id="avgjTx9-wl4suVrIr1Yl-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="avgjTx9-wl4suVrIr1Yl-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="70" y="270" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="avgjTx9-wl4suVrIr1Yl-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="130" y="290" width="120" height="60" as="geometry" />
