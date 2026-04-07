@@ -10,7 +10,7 @@
         <mxCell id="MxC0k0eCb2cJM5Vlk7o0-21" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="MxC0k0eCb2cJM5Vlk7o0-2" target="MxC0k0eCb2cJM5Vlk7o0-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="MxC0k0eCb2cJM5Vlk7o0-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="MxC0k0eCb2cJM5Vlk7o0-2" target="MxC0k0eCb2cJM5Vlk7o0-7">
+        <mxCell id="MxC0k0eCb2cJM5Vlk7o0-22" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="MxC0k0eCb2cJM5Vlk7o0-2" target="MxC0k0eCb2cJM5Vlk7o0-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MxC0k0eCb2cJM5Vlk7o0-2" value="前台" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
@@ -89,6 +89,12 @@
             <mxPoint x="257" y="236" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="MxC0k0eCb2cJM5Vlk7o0-23" value="&lt;b&gt;等级调整&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="430" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="MxC0k0eCb2cJM5Vlk7o0-24" value="&lt;b&gt;等级调整&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="440" width="100" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
