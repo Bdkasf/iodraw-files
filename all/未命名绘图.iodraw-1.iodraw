@@ -26,10 +26,10 @@
           <mxGeometry x="273" y="105.5" width="108" height="49" as="geometry" />
         </mxCell>
         <mxCell id="97mAf6U9G7aBORvAxY8k-21" value="前台工作人员" style="whiteSpace=wrap;strokeWidth=2;fontSize=25;" vertex="1" parent="1">
-          <mxGeometry x="547" y="105.5" width="156" height="49" as="geometry" />
+          <mxGeometry x="562" y="105.5" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="97mAf6U9G7aBORvAxY8k-22" value="登录界面" style="whiteSpace=wrap;strokeWidth=2;fontSize=25;" vertex="1" parent="1">
-          <mxGeometry x="257" y="260" width="124" height="49" as="geometry" />
+          <mxGeometry x="257" y="251" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="97mAf6U9G7aBORvAxY8k-23" value="欢迎引导页" style="whiteSpace=wrap;strokeWidth=2;fontSize=25;" vertex="1" parent="1">
           <mxGeometry x="570" y="240" width="140" height="60" as="geometry" />
