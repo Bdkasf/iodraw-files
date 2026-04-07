@@ -72,11 +72,14 @@
         <mxCell id="4wDlF7Djv2WkwEUpA_HG-19" value="保持当前等级" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="850" y="570" width="156" height="49" as="geometry" />
         </mxCell>
+        <mxCell id="4wDlF7Djv2WkwEUpA_HG-50" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="4wDlF7Djv2WkwEUpA_HG-20" target="4wDlF7Djv2WkwEUpA_HG-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="4wDlF7Djv2WkwEUpA_HG-20" value="写入操作日志" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1060" y="611" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="4wDlF7Djv2WkwEUpA_HG-21" value="刷新消费记录和看板" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1030" y="430" width="204" height="49" as="geometry" />
+          <mxGeometry x="1036" y="480" width="204" height="49" as="geometry" />
         </mxCell>
         <mxCell id="4wDlF7Djv2WkwEUpA_HG-23" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="4wDlF7Djv2WkwEUpA_HG-1" target="4wDlF7Djv2WkwEUpA_HG-2">
           <mxGeometry relative="1" as="geometry">
@@ -153,7 +156,7 @@
         <mxCell id="4wDlF7Djv2WkwEUpA_HG-43" value="" style="startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4wDlF7Djv2WkwEUpA_HG-18" target="4wDlF7Djv2WkwEUpA_HG-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4wDlF7Djv2WkwEUpA_HG-44" value="" style="startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4wDlF7Djv2WkwEUpA_HG-19" target="4wDlF7Djv2WkwEUpA_HG-20">
+        <mxCell id="4wDlF7Djv2WkwEUpA_HG-44" value="" style="startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;exitDx=0;exitDy=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="4wDlF7Djv2WkwEUpA_HG-19" target="4wDlF7Djv2WkwEUpA_HG-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
