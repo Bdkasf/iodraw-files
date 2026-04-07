@@ -74,10 +74,10 @@
           <mxGeometry x="910" y="660" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="LUN7ujRJ9Dw9Ekqw7Z7X-38" value="日志记录" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="430" y="650" width="124" height="49" as="geometry" />
+          <mxGeometry x="400" y="651" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="LUN7ujRJ9Dw9Ekqw7Z7X-39" value="日志查看" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="570" y="650" width="124" height="49" as="geometry" />
+          <mxGeometry x="540" y="650" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="LUN7ujRJ9Dw9Ekqw7Z7X-41" value="" style="startArrow=none;endArrow=block;exitX=0;exitY=0.54;entryX=1;entryY=0.5;rounded=0;entryDx=0;entryDy=0;fontSize=20;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="LUN7ujRJ9Dw9Ekqw7Z7X-1" target="LUN7ujRJ9Dw9Ekqw7Z7X-2">
           <mxGeometry relative="1" as="geometry" />
@@ -239,6 +239,9 @@
         </mxCell>
         <mxCell id="LUN7ujRJ9Dw9Ekqw7Z7X-16" value="热门排行" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;imageWidth=120;imageHeight=50;" vertex="1" parent="1">
           <mxGeometry x="70" y="280" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="LUN7ujRJ9Dw9Ekqw7Z7X-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="LUN7ujRJ9Dw9Ekqw7Z7X-36" target="LUN7ujRJ9Dw9Ekqw7Z7X-36">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
