@@ -82,10 +82,10 @@
           <mxGeometry x="422" y="1470" width="172" height="49" as="geometry" />
         </mxCell>
         <mxCell id="Jfw2tQfTeO33Q57Rp1w0-47" value="当前角色是否为管理员" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="403.5" y="1545" width="209" height="209" as="geometry" />
+          <mxGeometry x="182" y="1310" width="209" height="209" as="geometry" />
         </mxCell>
         <mxCell id="Jfw2tQfTeO33Q57Rp1w0-48" value="开放全部管理功能" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="629" y="2096" width="188" height="49" as="geometry" />
+          <mxGeometry x="196.5" y="1560" width="188" height="49" as="geometry" />
         </mxCell>
         <mxCell id="Jfw2tQfTeO33Q57Rp1w0-49" value="开放前台业务功能" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="391" y="2096" width="188" height="49" as="geometry" />
