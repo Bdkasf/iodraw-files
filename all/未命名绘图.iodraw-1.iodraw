@@ -1,41 +1,58 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0" version="24.7.17">
-  <diagram name="第 1 页" id="sDlzZpMdAKd99FaysvuL">
+  <diagram name="第 1 页" id="fSKNQYCiikfixQfuTW7g">
     <mxGraphModel dx="1202" dy="731" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="9y_jed01Y7JRP45d7DiQ-1" value="进入报表统计页面" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="143" y="20" width="188" height="49" as="geometry" />
+        <mxCell id="Uf46VLKUFYudVga60iwt-1" value="进入经营看板页面" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="147" y="20" width="188" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="9y_jed01Y7JRP45d7DiQ-2" value="选择统计维度" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="159" y="119" width="156" height="49" as="geometry" />
+        <mxCell id="Uf46VLKUFYudVga60iwt-2" value="统计经营数据" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="163" y="119" width="156" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="9y_jed01Y7JRP45d7DiQ-3" value="生成趋势图和统计表" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="135" y="218" width="204" height="49" as="geometry" />
+        <mxCell id="Uf46VLKUFYudVga60iwt-3" value="展示指标卡片" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="163" y="218" width="156" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="9y_jed01Y7JRP45d7DiQ-4" value="是否查看明细" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="122" y="317" width="230" height="73" as="geometry" />
+        <mxCell id="Uf46VLKUFYudVga60iwt-4" value="是否点击卡片" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="169" y="317" width="145" height="145" as="geometry" />
         </mxCell>
-        <mxCell id="9y_jed01Y7JRP45d7DiQ-5" value="显示项目或礼品报表" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="30" y="460" width="204" height="49" as="geometry" />
+        <mxCell id="Uf46VLKUFYudVga60iwt-5" value="显示会员或排行明细" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="20" y="535" width="204" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="9y_jed01Y7JRP45d7DiQ-6" value="导出报表数据" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="270" y="460" width="204" height="49" as="geometry" />
+        <mxCell id="Uf46VLKUFYudVga60iwt-6" value="查看待处理事项" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="274" y="535" width="172" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="9y_jed01Y7JRP45d7DiQ-8" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;fontSize=20;" edge="1" parent="1" source="9y_jed01Y7JRP45d7DiQ-1" target="9y_jed01Y7JRP45d7DiQ-2">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="Uf46VLKUFYudVga60iwt-7" value="```" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="385" y="30" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="9y_jed01Y7JRP45d7DiQ-9" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;fontSize=20;" edge="1" parent="1" source="9y_jed01Y7JRP45d7DiQ-2" target="9y_jed01Y7JRP45d7DiQ-3">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="Uf46VLKUFYudVga60iwt-8" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="Uf46VLKUFYudVga60iwt-1" target="Uf46VLKUFYudVga60iwt-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="9y_jed01Y7JRP45d7DiQ-10" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;fontSize=20;" edge="1" parent="1" source="9y_jed01Y7JRP45d7DiQ-3" target="9y_jed01Y7JRP45d7DiQ-4">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="Uf46VLKUFYudVga60iwt-9" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="Uf46VLKUFYudVga60iwt-2" target="Uf46VLKUFYudVga60iwt-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="9y_jed01Y7JRP45d7DiQ-11" value="查看明细" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;exitDx=0;exitDy=0;fontSize=20;" edge="1" parent="1" source="9y_jed01Y7JRP45d7DiQ-4" target="9y_jed01Y7JRP45d7DiQ-5">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="Uf46VLKUFYudVga60iwt-10" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="Uf46VLKUFYudVga60iwt-3" target="Uf46VLKUFYudVga60iwt-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="9y_jed01Y7JRP45d7DiQ-12" value="导出报表" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;exitDx=0;exitDy=0;fontSize=20;" edge="1" parent="1" source="9y_jed01Y7JRP45d7DiQ-4" target="9y_jed01Y7JRP45d7DiQ-6">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="Uf46VLKUFYudVga60iwt-11" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.96;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="Uf46VLKUFYudVga60iwt-4" target="Uf46VLKUFYudVga60iwt-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="122" y="499" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Uf46VLKUFYudVga60iwt-12" value="否" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.96;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="Uf46VLKUFYudVga60iwt-4" target="Uf46VLKUFYudVga60iwt-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="360" y="499" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
