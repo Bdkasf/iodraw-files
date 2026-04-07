@@ -14,7 +14,7 @@
           <mxGeometry x="163" y="218" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="Uf46VLKUFYudVga60iwt-4" value="是否点击卡片" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="140" y="317" width="220" height="63" as="geometry" />
+          <mxGeometry x="131" y="300" width="220" height="73" as="geometry" />
         </mxCell>
         <mxCell id="Uf46VLKUFYudVga60iwt-5" value="显示会员或排行明细" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="20" y="535" width="204" height="49" as="geometry" />
