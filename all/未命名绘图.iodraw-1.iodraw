@@ -50,7 +50,7 @@
           <mxGeometry x="77" y="230" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="LUN7ujRJ9Dw9Ekqw7Z7X-17" value="待处理事项" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="65" y="390" width="140" height="49" as="geometry" />
+          <mxGeometry x="65" y="360" width="140" height="49" as="geometry" />
         </mxCell>
         <mxCell id="LUN7ujRJ9Dw9Ekqw7Z7X-18" value="会员 CRUD" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-283" y="579" width="136" height="49" as="geometry" />
@@ -342,7 +342,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="LUN7ujRJ9Dw9Ekqw7Z7X-16" value="热门排行" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-59" y="360" width="124" height="49" as="geometry" />
+          <mxGeometry x="77" y="300" width="124" height="49" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
