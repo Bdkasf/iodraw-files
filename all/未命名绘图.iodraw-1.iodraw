@@ -64,7 +64,7 @@
           <mxGeometry x="355" y="590" width="188" height="49" as="geometry" />
         </mxCell>
         <mxCell id="4wDlF7Djv2WkwEUpA_HG-17" value="是否达到升级条件" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="571" y="526" width="177" height="177" as="geometry" />
+          <mxGeometry x="571" y="560" width="129" height="143" as="geometry" />
         </mxCell>
         <mxCell id="4wDlF7Djv2WkwEUpA_HG-18" value="自动升级会员等级" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="851" y="620" width="188" height="49" as="geometry" />
