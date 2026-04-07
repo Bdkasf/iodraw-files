@@ -11,7 +11,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yGH4qePVHIzP8h_ANEZK-2" value="显示欢迎引导页" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="307" y="110" width="172" height="49" as="geometry" />
+          <mxGeometry x="307" y="110" width="170" height="49" as="geometry" />
         </mxCell>
         <mxCell id="yGH4qePVHIzP8h_ANEZK-4" value="进入系统主界面" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="307" y="180" width="172" height="49" as="geometry" />
