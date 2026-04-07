@@ -23,10 +23,10 @@
           <mxGeometry x="308" y="250" width="170" height="49" as="geometry" />
         </mxCell>
         <mxCell id="yGH4qePVHIzP8h_ANEZK-6" value="显示趋势图" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="300" y="350" width="170" height="49" as="geometry" />
+          <mxGeometry x="307" y="320" width="170" height="49" as="geometry" />
         </mxCell>
         <mxCell id="yGH4qePVHIzP8h_ANEZK-7" value="是否放大查看" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="273" y="510" width="240" height="106" as="geometry" />
+          <mxGeometry x="310" y="400" width="202" height="70" as="geometry" />
         </mxCell>
         <mxCell id="yGH4qePVHIzP8h_ANEZK-8" value="正常查看图表" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="170" y="660" width="204" height="49" as="geometry" />
