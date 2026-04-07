@@ -29,7 +29,7 @@
           <mxGeometry x="497" y="105.5" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="97mAf6U9G7aBORvAxY8k-22" value="登录界面" style="whiteSpace=wrap;strokeWidth=2;fontSize=25;" vertex="1" parent="1">
-          <mxGeometry x="400" y="225" width="124" height="49" as="geometry" />
+          <mxGeometry x="339" y="260" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="97mAf6U9G7aBORvAxY8k-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="97mAf6U9G7aBORvAxY8k-23" target="97mAf6U9G7aBORvAxY8k-22">
           <mxGeometry relative="1" as="geometry" />
@@ -38,7 +38,7 @@
           <mxGeometry x="392" y="324" width="140" height="49" as="geometry" />
         </mxCell>
         <mxCell id="97mAf6U9G7aBORvAxY8k-24" value="主界面" style="whiteSpace=wrap;strokeWidth=2;fontSize=25;" vertex="1" parent="1">
-          <mxGeometry x="408" y="423" width="108" height="49" as="geometry" />
+          <mxGeometry x="196" y="260" width="108" height="49" as="geometry" />
         </mxCell>
         <mxCell id="97mAf6U9G7aBORvAxY8k-25" value="功能模块" style="whiteSpace=wrap;strokeWidth=2;spacing=10;fontSize=25;" vertex="1" parent="1">
           <mxGeometry x="400" y="555" width="124" height="49" as="geometry" />
