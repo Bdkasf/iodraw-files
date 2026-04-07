@@ -5,13 +5,13 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="97mAf6U9G7aBORvAxY8k-14" value="数据存储层" style="whiteSpace=wrap;strokeWidth=2;fontSize=25;" vertex="1" parent="1">
-          <mxGeometry x="211" y="1076" width="520" height="180" as="geometry" />
+          <mxGeometry x="202" y="1035.5" width="520" height="180" as="geometry" />
         </mxCell>
         <mxCell id="97mAf6U9G7aBORvAxY8k-15" value="数据访问层" style="whiteSpace=wrap;strokeWidth=2;fontSize=25;" vertex="1" parent="1">
-          <mxGeometry x="213" y="850" width="520" height="180" as="geometry" />
+          <mxGeometry x="202" y="830" width="520" height="180" as="geometry" />
         </mxCell>
         <mxCell id="97mAf6U9G7aBORvAxY8k-16" value="业务逻辑层" style="whiteSpace=wrap;strokeWidth=2;spacingLeft=250;fontSize=25;" vertex="1" parent="1">
-          <mxGeometry x="210" y="654" width="520" height="180" as="geometry" />
+          <mxGeometry x="202" y="630" width="520" height="180" as="geometry" />
         </mxCell>
         <mxCell id="97mAf6U9G7aBORvAxY8k-17" value="功能模块层" style="whiteSpace=wrap;strokeWidth=2;spacing=3;spacingLeft=200;fontSize=25;" vertex="1" parent="1">
           <mxGeometry x="210" y="430" width="520" height="180" as="geometry" />
