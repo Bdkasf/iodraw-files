@@ -20,7 +20,7 @@
           <mxGeometry x="283" y="650" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="LUN7ujRJ9Dw9Ekqw7Z7X-6" value="积分兑换" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="530" y="271" width="124" height="49" as="geometry" />
+          <mxGeometry x="530" y="210" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="LUN7ujRJ9Dw9Ekqw7Z7X-7" value="预约调度" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1296" y="41" width="124" height="49" as="geometry" />
@@ -80,10 +80,10 @@
           <mxGeometry x="450" y="91" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="LUN7ujRJ9Dw9Ekqw7Z7X-27" value="库存扣减" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="774" y="140" width="124" height="49" as="geometry" />
+          <mxGeometry x="600" y="90" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="LUN7ujRJ9Dw9Ekqw7Z7X-28" value="礼品管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="948" y="140" width="124" height="49" as="geometry" />
+          <mxGeometry x="740" y="90" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="LUN7ujRJ9Dw9Ekqw7Z7X-29" value="预约录入" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1122" y="140" width="124" height="49" as="geometry" />
