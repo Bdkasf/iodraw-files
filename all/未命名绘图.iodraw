@@ -35,22 +35,22 @@
           <mxGeometry x="46" y="1390" width="172" height="49" as="geometry" />
         </mxCell>
         <mxCell id="Jfw2tQfTeO33Q57Rp1w0-45" value="点击开始协同管理" style="whiteSpace=wrap;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="38" y="1490" width="188" height="49" as="geometry" />
+          <mxGeometry x="38" y="1460" width="188" height="49" as="geometry" />
         </mxCell>
         <mxCell id="Jfw2tQfTeO33Q57Rp1w0-46" value="进入系统主界面" style="whiteSpace=wrap;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="46" y="1570" width="172" height="49" as="geometry" />
+          <mxGeometry x="46" y="1535" width="172" height="49" as="geometry" />
         </mxCell>
         <mxCell id="Jfw2tQfTeO33Q57Rp1w0-47" value="当前角色是否为管理员" style="rhombus;strokeWidth=2;whiteSpace=wrap;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="302" y="1535" width="159" height="119" as="geometry" />
+          <mxGeometry x="299" y="1500" width="159" height="119" as="geometry" />
         </mxCell>
         <mxCell id="Jfw2tQfTeO33Q57Rp1w0-48" value="开放全部管理功能" style="whiteSpace=wrap;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="520" y="1570" width="188" height="49" as="geometry" />
+          <mxGeometry x="508" y="1535" width="188" height="49" as="geometry" />
         </mxCell>
         <mxCell id="Jfw2tQfTeO33Q57Rp1w0-49" value="开放前台业务功能" style="whiteSpace=wrap;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="287.5" y="1671" width="188" height="49" as="geometry" />
+          <mxGeometry x="284.5" y="1641" width="188" height="49" as="geometry" />
         </mxCell>
         <mxCell id="Jfw2tQfTeO33Q57Rp1w0-50" value="结束" style="whiteSpace=wrap;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="568" y="1690" width="92" height="49" as="geometry" />
+          <mxGeometry x="556" y="1660" width="92" height="49" as="geometry" />
         </mxCell>
         <mxCell id="Jfw2tQfTeO33Q57Rp1w0-51" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Jfw2tQfTeO33Q57Rp1w0-35" target="Jfw2tQfTeO33Q57Rp1w0-36" edge="1">
           <mxGeometry relative="1" as="geometry">
