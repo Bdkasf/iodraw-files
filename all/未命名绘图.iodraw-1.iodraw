@@ -31,16 +31,16 @@
           <mxGeometry x="488" y="390" width="188" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LUN7ujRJ9Dw9Ekqw7Z7X-2" value="登录与欢迎" style="whiteSpace=wrap;strokeWidth=2;fontSize=25;" vertex="1" parent="1">
-          <mxGeometry x="242" y="200" width="150" height="50" as="geometry" />
+          <mxGeometry x="240" y="200" width="150" height="50" as="geometry" />
         </mxCell>
         <mxCell id="LUN7ujRJ9Dw9Ekqw7Z7X-3" value="经营看板" style="whiteSpace=wrap;strokeWidth=2;fontSize=25;" vertex="1" parent="1">
-          <mxGeometry x="242" y="320" width="150" height="50" as="geometry" />
+          <mxGeometry x="240" y="320" width="150" height="50" as="geometry" />
         </mxCell>
         <mxCell id="LUN7ujRJ9Dw9Ekqw7Z7X-4" value="会员管理" style="whiteSpace=wrap;strokeWidth=2;fontSize=25;" vertex="1" parent="1">
-          <mxGeometry x="242" y="449" width="150" height="50" as="geometry" />
+          <mxGeometry x="240" y="450" width="150" height="50" as="geometry" />
         </mxCell>
         <mxCell id="LUN7ujRJ9Dw9Ekqw7Z7X-5" value="消费结算" style="whiteSpace=wrap;strokeWidth=2;fontSize=25;" vertex="1" parent="1">
-          <mxGeometry x="242" y="600" width="150" height="50" as="geometry" />
+          <mxGeometry x="240" y="600" width="150" height="50" as="geometry" />
         </mxCell>
         <mxCell id="LUN7ujRJ9Dw9Ekqw7Z7X-6" value="积分兑换" style="whiteSpace=wrap;strokeWidth=2;fontSize=25;" vertex="1" parent="1">
           <mxGeometry x="507" y="270" width="150" height="50" as="geometry" />
