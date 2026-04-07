@@ -13,7 +13,7 @@
         <mxCell id="97mAf6U9G7aBORvAxY8k-16" value="业务逻辑层" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="151" y="665" width="240" height="99" as="geometry" />
         </mxCell>
-        <mxCell id="97mAf6U9G7aBORvAxY8k-17" value="功能模块层" style="whiteSpace=wrap;strokeWidth=2;spacing=3;" vertex="1" parent="1">
+        <mxCell id="97mAf6U9G7aBORvAxY8k-17" value="功能模块层" style="whiteSpace=wrap;strokeWidth=2;spacing=100;" vertex="1" parent="1">
           <mxGeometry x="174" y="516" width="194" height="99" as="geometry" />
         </mxCell>
         <mxCell id="97mAf6U9G7aBORvAxY8k-18" value="界面表现层" style="strokeWidth=2;horizontal=1;verticalAlign=middle;spacingLeft=250;" vertex="1" parent="1">
@@ -37,7 +37,7 @@
         <mxCell id="97mAf6U9G7aBORvAxY8k-24" value="主界面" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="217" y="392" width="108" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="97mAf6U9G7aBORvAxY8k-25" value="功能模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="97mAf6U9G7aBORvAxY8k-25" value="功能模块" style="whiteSpace=wrap;strokeWidth=2;spacing=10;" vertex="1" parent="1">
           <mxGeometry x="209" y="541" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="97mAf6U9G7aBORvAxY8k-26" value="MemberService" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
