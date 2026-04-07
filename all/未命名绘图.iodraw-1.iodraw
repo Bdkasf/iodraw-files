@@ -10,7 +10,7 @@
         <mxCell id="97mAf6U9G7aBORvAxY8k-15" value="数据访问层" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="66" y="814" width="408" height="198" as="geometry" />
         </mxCell>
-        <mxCell id="97mAf6U9G7aBORvAxY8k-16" value="业务逻辑层" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="97mAf6U9G7aBORvAxY8k-16" value="业务逻辑层" style="whiteSpace=wrap;strokeWidth=2;spacingLeft=250;" vertex="1" parent="1">
           <mxGeometry x="151" y="665" width="240" height="99" as="geometry" />
         </mxCell>
         <mxCell id="97mAf6U9G7aBORvAxY8k-17" value="功能模块层" style="whiteSpace=wrap;strokeWidth=2;spacing=3;spacingLeft=200;" vertex="1" parent="1">
