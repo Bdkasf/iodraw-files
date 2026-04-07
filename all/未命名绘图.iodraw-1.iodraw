@@ -71,7 +71,7 @@
           <mxGeometry x="1220" y="594" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="qdfP1Zq6PderVdKy93vA-22" value="写入充值记录" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1487" y="904" width="156" height="49" as="geometry" />
+          <mxGeometry x="1220" y="720" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="qdfP1Zq6PderVdKy93vA-23" value="统计最近消费、偏好项目、平均消费金额" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1270" y="280" width="252" height="67" as="geometry" />
@@ -185,7 +185,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qdfP1Zq6PderVdKy93vA-55" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="qdfP1Zq6PderVdKy93vA-23" target="qdfP1Zq6PderVdKy93vA-24">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1480" y="347" />
+              <mxPoint x="1480" y="540" />
+              <mxPoint x="1820" y="540" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="qdfP1Zq6PderVdKy93vA-56" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="qdfP1Zq6PderVdKy93vA-24">
           <mxGeometry relative="1" as="geometry">
