@@ -35,7 +35,7 @@
           <mxGeometry x="490" y="585" width="120" height="115" as="geometry" />
         </mxCell>
         <mxCell id="KwmryITbxgx8AXOdWRwr-10" value="正常查看报表" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="466" y="1074" width="156" height="49" as="geometry" />
+          <mxGeometry x="298" y="770" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="KwmryITbxgx8AXOdWRwr-11" value="弹出图表放大窗口" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="580" y="760" width="188" height="49" as="geometry" />
@@ -76,8 +76,10 @@
         <mxCell id="KwmryITbxgx8AXOdWRwr-25" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="KwmryITbxgx8AXOdWRwr-11" target="KwmryITbxgx8AXOdWRwr-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KwmryITbxgx8AXOdWRwr-26" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.7;entryY=-0.01;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="KwmryITbxgx8AXOdWRwr-12" target="KwmryITbxgx8AXOdWRwr-10">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="KwmryITbxgx8AXOdWRwr-26" value="" style="startArrow=none;endArrow=block;entryX=0.7;entryY=-0.01;rounded=0;edgeStyle=orthogonalEdgeStyle;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="KwmryITbxgx8AXOdWRwr-12" target="KwmryITbxgx8AXOdWRwr-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="678" y="880" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
