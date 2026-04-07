@@ -23,7 +23,7 @@
           <mxGeometry x="330" y="640" width="140" height="49" as="geometry" />
         </mxCell>
         <mxCell id="qdfP1Zq6PderVdKy93vA-7" value="刷新会员列表" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="730" y="820" width="156" height="49" as="geometry" />
+          <mxGeometry x="740" y="790" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="qdfP1Zq6PderVdKy93vA-8" value="输入关键字" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="454" y="298" width="140" height="49" as="geometry" />
