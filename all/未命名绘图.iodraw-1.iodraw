@@ -95,7 +95,7 @@
         <mxCell id="o-YJnA2EUqc50f2uyItU-27" value="否" style="startArrow=none;endArrow=block;exitX=0.17;exitY=1;entryX=0.54;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="o-YJnA2EUqc50f2uyItU-12" target="o-YJnA2EUqc50f2uyItU-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="o-YJnA2EUqc50f2uyItU-28" value="是" style="startArrow=none;endArrow=block;exitX=0.83;exitY=1;entryX=0.5;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="o-YJnA2EUqc50f2uyItU-12" target="o-YJnA2EUqc50f2uyItU-13">
+        <mxCell id="o-YJnA2EUqc50f2uyItU-28" value="是" style="startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.5;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;exitDx=0;exitDy=0;" edge="1" parent="1" source="o-YJnA2EUqc50f2uyItU-12" target="o-YJnA2EUqc50f2uyItU-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="o-YJnA2EUqc50f2uyItU-29" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="o-YJnA2EUqc50f2uyItU-13" target="o-YJnA2EUqc50f2uyItU-14">
