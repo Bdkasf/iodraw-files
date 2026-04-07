@@ -14,7 +14,7 @@
           <mxGeometry x="170" y="280" width="252" height="67" as="geometry" />
         </mxCell>
         <mxCell id="qdfP1Zq6PderVdKy93vA-4" value="信息是否完整" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="160" y="600" width="145" height="145" as="geometry" />
+          <mxGeometry x="220" y="450" width="145" height="145" as="geometry" />
         </mxCell>
         <mxCell id="qdfP1Zq6PderVdKy93vA-5" value="提示输入不完整" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="34" y="904" width="172" height="49" as="geometry" />
@@ -35,10 +35,10 @@
           <mxGeometry x="644" y="298" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="qdfP1Zq6PderVdKy93vA-11" value="回填表单" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="668" y="507" width="124" height="49" as="geometry" />
+          <mxGeometry x="660" y="478" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="qdfP1Zq6PderVdKy93vA-12" value="修改后保存" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="660" y="725" width="140" height="49" as="geometry" />
+          <mxGeometry x="652" y="600" width="140" height="49" as="geometry" />
         </mxCell>
         <mxCell id="qdfP1Zq6PderVdKy93vA-13" value="更新会员信息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="652" y="904" width="156" height="49" as="geometry" />
