@@ -184,7 +184,7 @@
         <mxCell id="qdfP1Zq6PderVdKy93vA-54" value="会员画像分析" style="startArrow=none;endArrow=block;exitX=1;exitY=0.56;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="qdfP1Zq6PderVdKy93vA-2" target="qdfP1Zq6PderVdKy93vA-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qdfP1Zq6PderVdKy93vA-55" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="qdfP1Zq6PderVdKy93vA-23" target="qdfP1Zq6PderVdKy93vA-24">
+        <mxCell id="qdfP1Zq6PderVdKy93vA-55" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="qdfP1Zq6PderVdKy93vA-23" target="qdfP1Zq6PderVdKy93vA-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qdfP1Zq6PderVdKy93vA-56" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="qdfP1Zq6PderVdKy93vA-24">
