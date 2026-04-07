@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="NL_f783nxCAOTMuIQ6Qb">
-    <mxGraphModel dx="3123" dy="1270" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2296" dy="1270" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -42,9 +42,6 @@
         </mxCell>
         <mxCell id="LUN7ujRJ9Dw9Ekqw7Z7X-13" value="欢迎页" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="81" y="149" width="108" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="LUN7ujRJ9Dw9Ekqw7Z7X-14" value="经营指标" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="-135.5" y="312" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="LUN7ujRJ9Dw9Ekqw7Z7X-15" value="会员明细" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="91.5" y="212" width="124" height="49" as="geometry" />
@@ -158,11 +155,6 @@
         </mxCell>
         <mxCell id="LUN7ujRJ9Dw9Ekqw7Z7X-52" value="" style="startArrow=none;endArrow=block;exitX=0;exitY=0.5;entryX=1;entryY=0.25;rounded=0;entryDx=0;entryDy=0;exitDx=0;exitDy=0;fontSize=20;" edge="1" parent="1" source="LUN7ujRJ9Dw9Ekqw7Z7X-2" target="LUN7ujRJ9Dw9Ekqw7Z7X-13">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="LUN7ujRJ9Dw9Ekqw7Z7X-53" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.5;entryX=1;entryY=0.5;rounded=0;entryDx=0;entryDy=0;exitDx=0;exitDy=0;fontSize=20;" edge="1" parent="1" source="LUN7ujRJ9Dw9Ekqw7Z7X-16" target="LUN7ujRJ9Dw9Ekqw7Z7X-14">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="LUN7ujRJ9Dw9Ekqw7Z7X-54" value="" style="startArrow=none;endArrow=block;entryX=1;entryY=0.5;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryDx=0;entryDy=0;fontSize=20;" edge="1" parent="1" source="LUN7ujRJ9Dw9Ekqw7Z7X-3" target="LUN7ujRJ9Dw9Ekqw7Z7X-15">
           <mxGeometry relative="1" as="geometry">
