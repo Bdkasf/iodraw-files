@@ -26,7 +26,7 @@
           <mxGeometry x="126" y="45" width="108" height="49" as="geometry" />
         </mxCell>
         <mxCell id="97mAf6U9G7aBORvAxY8k-21" value="前台工作人员" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="284" y="45" width="156" height="49" as="geometry" />
+          <mxGeometry x="307" y="45.5" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="97mAf6U9G7aBORvAxY8k-22" value="登录界面" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="209" y="194" width="124" height="49" as="geometry" />
