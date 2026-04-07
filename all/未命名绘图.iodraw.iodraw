@@ -109,6 +109,9 @@
         <mxCell id="avgjTx9-wl4suVrIr1Yl-37" value="是否确认删除" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="370" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="avgjTx9-wl4suVrIr1Yl-39" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
