@@ -34,45 +34,6 @@
         <mxCell id="LUN7ujRJ9Dw9Ekqw7Z7X-10" value="操作审计" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="522" y="508" width="124" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="LUN7ujRJ9Dw9Ekqw7Z7X-11" value="登录认证" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;imageWidth=120;imageHeight=24;" vertex="1" parent="1">
-          <mxGeometry x="70" y="30" width="120" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="LUN7ujRJ9Dw9Ekqw7Z7X-12" value="角色权限" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;imageWidth=120;imageHeight=24;" vertex="1" parent="1">
-          <mxGeometry x="70" y="90" width="120" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="LUN7ujRJ9Dw9Ekqw7Z7X-13" value="欢迎页" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;imageWidth=120;imageHeight=24;" vertex="1" parent="1">
-          <mxGeometry x="70" y="150" width="110" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="LUN7ujRJ9Dw9Ekqw7Z7X-15" value="会员明细" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;imageWidth=120;imageHeight=24;" vertex="1" parent="1">
-          <mxGeometry x="70" y="210" width="120" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="LUN7ujRJ9Dw9Ekqw7Z7X-17" value="待处理事项" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;imageWidth=120;imageHeight=24;" vertex="1" parent="1">
-          <mxGeometry x="70" y="350" width="140" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="LUN7ujRJ9Dw9Ekqw7Z7X-18" value="会员 CRUD" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;imageWidth=120;imageHeight=24;" vertex="1" parent="1">
-          <mxGeometry x="70" y="410" width="140" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="LUN7ujRJ9Dw9Ekqw7Z7X-19" value="会员充值" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;imageWidth=120;imageHeight=24;" vertex="1" parent="1">
-          <mxGeometry x="70" y="470" width="120" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="LUN7ujRJ9Dw9Ekqw7Z7X-20" value="会员标签" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;imageWidth=120;imageHeight=24;" vertex="1" parent="1">
-          <mxGeometry x="70" y="530" width="120" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="LUN7ujRJ9Dw9Ekqw7Z7X-21" value="会员画像分析" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="70" y="590" width="160" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="LUN7ujRJ9Dw9Ekqw7Z7X-22" value="项目选择" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;imageWidth=120;imageHeight=24;" vertex="1" parent="1">
-          <mxGeometry x="70" y="650" width="120" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="LUN7ujRJ9Dw9Ekqw7Z7X-23" value="折扣计算" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;imageWidth=120;imageHeight=24;" vertex="1" parent="1">
-          <mxGeometry x="70" y="710" width="120" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="LUN7ujRJ9Dw9Ekqw7Z7X-24" value="余额结算" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;imageWidth=120;imageHeight=24;" vertex="1" parent="1">
-          <mxGeometry x="70" y="780" width="120" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="LUN7ujRJ9Dw9Ekqw7Z7X-25" value="积分累计" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;imageWidth=120;imageHeight=24;" vertex="1" parent="1">
-          <mxGeometry x="70" y="840" width="120" height="50" as="geometry" />
-        </mxCell>
         <mxCell id="LUN7ujRJ9Dw9Ekqw7Z7X-26" value="礼品兑换" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="430" y="160" width="124" height="49" as="geometry" />
         </mxCell>
@@ -242,7 +203,46 @@
             <mxPoint x="153.5" y="192" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LUN7ujRJ9Dw9Ekqw7Z7X-16" value="热门排行" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;imageWidth=120;imageHeight=24;" vertex="1" parent="1">
+        <mxCell id="LUN7ujRJ9Dw9Ekqw7Z7X-11" value="登录认证" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;imageWidth=120;imageHeight=50;" vertex="1" parent="1">
+          <mxGeometry x="70" y="30" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="LUN7ujRJ9Dw9Ekqw7Z7X-12" value="角色权限" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;imageWidth=120;imageHeight=50;" vertex="1" parent="1">
+          <mxGeometry x="70" y="90" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="LUN7ujRJ9Dw9Ekqw7Z7X-13" value="欢迎页" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;imageWidth=120;imageHeight=50;" vertex="1" parent="1">
+          <mxGeometry x="70" y="150" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="LUN7ujRJ9Dw9Ekqw7Z7X-15" value="会员明细" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;imageWidth=120;imageHeight=50;" vertex="1" parent="1">
+          <mxGeometry x="70" y="210" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="LUN7ujRJ9Dw9Ekqw7Z7X-17" value="待处理事项" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;imageWidth=120;imageHeight=50;" vertex="1" parent="1">
+          <mxGeometry x="70" y="350" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="LUN7ujRJ9Dw9Ekqw7Z7X-18" value="会员 CRUD" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;imageWidth=120;imageHeight=50;" vertex="1" parent="1">
+          <mxGeometry x="70" y="410" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="LUN7ujRJ9Dw9Ekqw7Z7X-19" value="会员充值" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;imageWidth=120;imageHeight=50;" vertex="1" parent="1">
+          <mxGeometry x="70" y="470" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="LUN7ujRJ9Dw9Ekqw7Z7X-20" value="会员标签" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;imageWidth=120;imageHeight=50;" vertex="1" parent="1">
+          <mxGeometry x="70" y="530" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="LUN7ujRJ9Dw9Ekqw7Z7X-21" value="会员画像分析" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="70" y="590" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="LUN7ujRJ9Dw9Ekqw7Z7X-22" value="项目选择" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;imageWidth=120;imageHeight=50;" vertex="1" parent="1">
+          <mxGeometry x="70" y="650" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="LUN7ujRJ9Dw9Ekqw7Z7X-23" value="折扣计算" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;imageWidth=120;imageHeight=50;" vertex="1" parent="1">
+          <mxGeometry x="70" y="710" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="LUN7ujRJ9Dw9Ekqw7Z7X-24" value="余额结算" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;imageWidth=120;imageHeight=50;" vertex="1" parent="1">
+          <mxGeometry x="70" y="780" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="LUN7ujRJ9Dw9Ekqw7Z7X-25" value="积分累计" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;imageWidth=120;imageHeight=50;" vertex="1" parent="1">
+          <mxGeometry x="70" y="840" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="LUN7ujRJ9Dw9Ekqw7Z7X-16" value="热门排行" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;imageWidth=120;imageHeight=50;" vertex="1" parent="1">
           <mxGeometry x="70" y="280" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
