@@ -32,7 +32,7 @@
           <mxGeometry x="116" y="720" width="204" height="49" as="geometry" />
         </mxCell>
         <mxCell id="3Y5xCTVhRqRy2KR1GcjI-10" value="结束" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="247" y="999" width="92" height="49" as="geometry" />
+          <mxGeometry x="228" y="840" width="92" height="49" as="geometry" />
         </mxCell>
         <mxCell id="3Y5xCTVhRqRy2KR1GcjI-11" value="选择消费项目" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="577.5" y="320" width="156" height="49" as="geometry" />
