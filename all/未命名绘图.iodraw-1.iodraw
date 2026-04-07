@@ -14,10 +14,10 @@
           <mxGeometry x="313" y="228" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="k_blgQjONOpiYwLh-7J8-4" value="金额是否有效" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="285.5" y="290" width="211" height="145" as="geometry" />
+          <mxGeometry x="285.5" y="310" width="211" height="80" as="geometry" />
         </mxCell>
         <mxCell id="k_blgQjONOpiYwLh-7J8-5" value="提示金额无效" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="210" y="545" width="156" height="49" as="geometry" />
+          <mxGeometry x="200" y="410" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="k_blgQjONOpiYwLh-7J8-6" value="更新会员余额" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="416" y="545" width="156" height="49" as="geometry" />
