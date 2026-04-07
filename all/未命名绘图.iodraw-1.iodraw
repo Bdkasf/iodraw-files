@@ -46,11 +46,8 @@
         <mxCell id="97mAf6U9G7aBORvAxY8k-28" value="QSqlQuery" style="whiteSpace=wrap;strokeWidth=2;fontSize=25;" vertex="1" parent="1">
           <mxGeometry x="550" y="856" width="136" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="97mAf6U9G7aBORvAxY8k-29" value="事务控制" style="whiteSpace=wrap;strokeWidth=2;fontSize=25;" vertex="1" parent="1">
-          <mxGeometry x="490" y="952" width="124" height="49" as="geometry" />
-        </mxCell>
         <mxCell id="97mAf6U9G7aBORvAxY8k-30" value="MySQL数据库" style="whiteSpace=wrap;strokeWidth=2;fontSize=25;" vertex="1" parent="1">
-          <mxGeometry x="295" y="1101" width="155" height="49" as="geometry" />
+          <mxGeometry x="220" y="1061" width="220" height="49" as="geometry" />
         </mxCell>
         <mxCell id="97mAf6U9G7aBORvAxY8k-31" value="会员、消费、预约、礼品、充值" style="whiteSpace=wrap;strokeWidth=2;fontSize=25;" vertex="1" parent="1">
           <mxGeometry x="245" y="1210" width="252" height="67" as="geometry" />
