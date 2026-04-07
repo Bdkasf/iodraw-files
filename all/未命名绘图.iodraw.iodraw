@@ -63,9 +63,6 @@
         <mxCell id="Jfw2tQfTeO33Q57Rp1w0-40" value="调用登录验证接口" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="577.5" y="800" width="188" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="Jfw2tQfTeO33Q57Rp1w0-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Jfw2tQfTeO33Q57Rp1w0-41" target="Jfw2tQfTeO33Q57Rp1w0-43">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="Jfw2tQfTeO33Q57Rp1w0-41" value="账号密码角色是否匹配" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="567" y="880" width="209" height="209" as="geometry" />
         </mxCell>
