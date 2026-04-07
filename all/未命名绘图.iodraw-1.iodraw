@@ -14,7 +14,7 @@
           <mxGeometry x="221" y="160" width="188" height="49" as="geometry" />
         </mxCell>
         <mxCell id="o-YJnA2EUqc50f2uyItU-4" value="是否点击指标卡片" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="226" y="317" width="177" height="177" as="geometry" />
+          <mxGeometry x="226.5" y="230" width="153.5" height="100" as="geometry" />
         </mxCell>
         <mxCell id="o-YJnA2EUqc50f2uyItU-5" value="是否进入报表统计页" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="354" y="567" width="193" height="193" as="geometry" />
