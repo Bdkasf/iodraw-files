@@ -29,7 +29,7 @@
           <mxGeometry x="700" y="105.5" width="220" height="49" as="geometry" />
         </mxCell>
         <mxCell id="97mAf6U9G7aBORvAxY8k-22" value="登录界面" style="whiteSpace=wrap;strokeWidth=2;fontSize=25;" vertex="1" parent="1">
-          <mxGeometry x="250" y="245.5" width="220" height="49" as="geometry" />
+          <mxGeometry x="260" y="245.5" width="220" height="49" as="geometry" />
         </mxCell>
         <mxCell id="97mAf6U9G7aBORvAxY8k-23" value="欢迎引导页" style="whiteSpace=wrap;strokeWidth=2;fontSize=25;" vertex="1" parent="1">
           <mxGeometry x="690" y="245.5" width="220" height="49" as="geometry" />
@@ -38,16 +38,16 @@
           <mxGeometry x="260" y="405.5" width="220" height="49" as="geometry" />
         </mxCell>
         <mxCell id="97mAf6U9G7aBORvAxY8k-26" value="MemberService" style="whiteSpace=wrap;strokeWidth=2;fontSize=25;" vertex="1" parent="1">
-          <mxGeometry x="250" y="525.5" width="220" height="49" as="geometry" />
+          <mxGeometry x="260" y="525.5" width="220" height="49" as="geometry" />
         </mxCell>
         <mxCell id="97mAf6U9G7aBORvAxY8k-27" value="DatabaseManager" style="whiteSpace=wrap;strokeWidth=2;fontSize=25;" vertex="1" parent="1">
-          <mxGeometry x="1000" y="660" width="220" height="49" as="geometry" />
+          <mxGeometry x="700" y="650" width="220" height="49" as="geometry" />
         </mxCell>
         <mxCell id="97mAf6U9G7aBORvAxY8k-28" value="QSqlQuery" style="whiteSpace=wrap;strokeWidth=2;fontSize=25;" vertex="1" parent="1">
-          <mxGeometry x="240" y="655.5" width="220" height="49" as="geometry" />
+          <mxGeometry x="260" y="655.5" width="220" height="49" as="geometry" />
         </mxCell>
         <mxCell id="97mAf6U9G7aBORvAxY8k-30" value="MySQL数据库" style="whiteSpace=wrap;strokeWidth=2;fontSize=25;" vertex="1" parent="1">
-          <mxGeometry x="240" y="795.5" width="220" height="49" as="geometry" />
+          <mxGeometry x="260" y="795.5" width="220" height="49" as="geometry" />
         </mxCell>
         <mxCell id="97mAf6U9G7aBORvAxY8k-31" value="会员、消费、充值" style="whiteSpace=wrap;strokeWidth=2;fontSize=25;" vertex="1" parent="1">
           <mxGeometry x="670" y="795.5" width="220" height="49" as="geometry" />
