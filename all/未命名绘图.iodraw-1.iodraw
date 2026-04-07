@@ -11,7 +11,7 @@
           <mxGeometry x="235" y="140" width="172" height="49" as="geometry" />
         </mxCell>
         <mxCell id="LUN7ujRJ9Dw9Ekqw7Z7X-3" value="经营看板" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="280" y="310" width="124" height="49" as="geometry" />
+          <mxGeometry x="267" y="330" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="LUN7ujRJ9Dw9Ekqw7Z7X-4" value="会员管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-10" y="480" width="124" height="49" as="geometry" />
@@ -44,13 +44,10 @@
           <mxGeometry x="81" y="149" width="108" height="49" as="geometry" />
         </mxCell>
         <mxCell id="LUN7ujRJ9Dw9Ekqw7Z7X-14" value="经营指标" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="60" y="230" width="124" height="49" as="geometry" />
+          <mxGeometry x="77" y="210" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="LUN7ujRJ9Dw9Ekqw7Z7X-15" value="会员明细" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="60" y="300" width="124" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="LUN7ujRJ9Dw9Ekqw7Z7X-16" value="热门排行" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="65" y="370" width="124" height="49" as="geometry" />
+          <mxGeometry x="77" y="267" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="LUN7ujRJ9Dw9Ekqw7Z7X-17" value="待处理事项" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="57" y="431" width="140" height="49" as="geometry" />
@@ -177,11 +174,9 @@
         <mxCell id="LUN7ujRJ9Dw9Ekqw7Z7X-52" value="" style="startArrow=none;endArrow=block;exitX=0;exitY=0.5;entryX=1;entryY=0.25;rounded=0;entryDx=0;entryDy=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="LUN7ujRJ9Dw9Ekqw7Z7X-2" target="LUN7ujRJ9Dw9Ekqw7Z7X-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LUN7ujRJ9Dw9Ekqw7Z7X-53" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.74;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="LUN7ujRJ9Dw9Ekqw7Z7X-3" target="LUN7ujRJ9Dw9Ekqw7Z7X-14">
+        <mxCell id="LUN7ujRJ9Dw9Ekqw7Z7X-53" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.74;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="LUN7ujRJ9Dw9Ekqw7Z7X-16" target="LUN7ujRJ9Dw9Ekqw7Z7X-14">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="-193" y="341" />
-            </Array>
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="LUN7ujRJ9Dw9Ekqw7Z7X-54" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.15;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="LUN7ujRJ9Dw9Ekqw7Z7X-3" target="LUN7ujRJ9Dw9Ekqw7Z7X-15">
@@ -352,6 +347,18 @@
               <mxPoint x="4958" y="193" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="LUN7ujRJ9Dw9Ekqw7Z7X-85" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.74;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="LUN7ujRJ9Dw9Ekqw7Z7X-3" target="LUN7ujRJ9Dw9Ekqw7Z7X-16">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-193" y="341" />
+            </Array>
+            <mxPoint x="267" y="366" as="sourcePoint" />
+            <mxPoint x="139" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LUN7ujRJ9Dw9Ekqw7Z7X-16" value="热门排行" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="77" y="330" width="124" height="49" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
