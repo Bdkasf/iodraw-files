@@ -150,7 +150,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Jfw2tQfTeO33Q57Rp1w0-60" value="是" style="curved=0;startArrow=none;endArrow=block;exitX=0.57;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Jfw2tQfTeO33Q57Rp1w0-41" target="Jfw2tQfTeO33Q57Rp1w0-43">
+        <mxCell id="Jfw2tQfTeO33Q57Rp1w0-60" value="是" style="curved=0;startArrow=none;endArrow=block;exitX=0.57;exitY=1;entryX=0.5;entryY=0;rounded=0;strokeColor=default;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Jfw2tQfTeO33Q57Rp1w0-41" target="Jfw2tQfTeO33Q57Rp1w0-43">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="604" y="1382" />
