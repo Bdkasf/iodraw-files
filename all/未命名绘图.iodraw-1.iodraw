@@ -7,11 +7,6 @@
         <mxCell id="LUN7ujRJ9Dw9Ekqw7Z7X-1" value="温泉会员管理系统" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="490" y="410" width="188" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="LUN7ujRJ9Dw9Ekqw7Z7X-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="LUN7ujRJ9Dw9Ekqw7Z7X-2">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="330" y="120" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="LUN7ujRJ9Dw9Ekqw7Z7X-2" value="登录与欢迎引导" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="242" y="160" width="172" height="49" as="geometry" />
         </mxCell>
@@ -119,7 +114,7 @@
             <mxPoint x="-14" y="80" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LUN7ujRJ9Dw9Ekqw7Z7X-52" value="" style="startArrow=none;endArrow=block;exitX=0;exitY=0.5;entryX=1;entryY=0.25;rounded=0;entryDx=0;entryDy=0;exitDx=0;exitDy=0;fontSize=20;" edge="1" parent="1" source="LUN7ujRJ9Dw9Ekqw7Z7X-2" target="LUN7ujRJ9Dw9Ekqw7Z7X-13">
+        <mxCell id="LUN7ujRJ9Dw9Ekqw7Z7X-52" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=0;entryX=1;entryY=0.25;rounded=0;entryDx=0;entryDy=0;exitDx=0;exitDy=0;fontSize=20;" edge="1" parent="1" source="LUN7ujRJ9Dw9Ekqw7Z7X-2" target="LUN7ujRJ9Dw9Ekqw7Z7X-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LUN7ujRJ9Dw9Ekqw7Z7X-54" value="" style="startArrow=none;endArrow=block;entryX=1;entryY=0.5;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryDx=0;entryDy=0;fontSize=20;" edge="1" parent="1" source="LUN7ujRJ9Dw9Ekqw7Z7X-3" target="LUN7ujRJ9Dw9Ekqw7Z7X-15">
