@@ -31,6 +31,9 @@
         <mxCell id="avgjTx9-wl4suVrIr1Yl-5" value="输入关键字" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="130" y="290" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="avgjTx9-wl4suVrIr1Yl-38" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="avgjTx9-wl4suVrIr1Yl-6" target="avgjTx9-wl4suVrIr1Yl-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="avgjTx9-wl4suVrIr1Yl-6" value="管理员选择会员" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="420" y="290" width="120" height="60" as="geometry" />
         </mxCell>
@@ -104,7 +107,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="avgjTx9-wl4suVrIr1Yl-37" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="474" y="370" width="80" height="80" as="geometry" />
+          <mxGeometry x="460" y="370" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
