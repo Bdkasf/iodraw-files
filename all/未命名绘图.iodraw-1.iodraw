@@ -20,10 +20,10 @@
           <mxGeometry x="428" y="218.38" width="146" height="123.25" as="geometry" />
         </mxCell>
         <mxCell id="o-YJnA2EUqc50f2uyItU-6" value="查询对应会员明细或排行数据" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="60" y="360" width="252" height="67" as="geometry" />
+          <mxGeometry x="61" y="341.63" width="252" height="67" as="geometry" />
         </mxCell>
         <mxCell id="o-YJnA2EUqc50f2uyItU-7" value="展示会员名单/热门项目/礼品排行" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="60" y="480" width="253" height="67" as="geometry" />
+          <mxGeometry x="61" y="443" width="253" height="67" as="geometry" />
         </mxCell>
         <mxCell id="o-YJnA2EUqc50f2uyItU-8" value="结束" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="309" y="590" width="92" height="49" as="geometry" />
