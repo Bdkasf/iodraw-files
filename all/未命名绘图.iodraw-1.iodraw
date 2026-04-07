@@ -86,7 +86,7 @@
           <mxGeometry x="710" y="160" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="LUN7ujRJ9Dw9Ekqw7Z7X-29" value="预约录入" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="870" y="209" width="124" height="49" as="geometry" />
+          <mxGeometry x="870" y="209" width="120" height="49" as="geometry" />
         </mxCell>
         <mxCell id="LUN7ujRJ9Dw9Ekqw7Z7X-30" value="冲突校验" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="870" y="271" width="124" height="49" as="geometry" />
