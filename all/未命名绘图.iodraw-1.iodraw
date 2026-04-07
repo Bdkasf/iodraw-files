@@ -35,7 +35,7 @@
           <mxGeometry x="386" y="380" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="4wDlF7Djv2WkwEUpA_HG-11" value="会员余额是否充足" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="570" y="400" width="130" height="121" as="geometry" />
+          <mxGeometry x="550" y="390" width="130" height="121" as="geometry" />
         </mxCell>
         <mxCell id="4wDlF7Djv2WkwEUpA_HG-12" value="提示余额不足或暂无余额" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="988" y="864" width="236" height="49" as="geometry" />
@@ -111,8 +111,9 @@
         <mxCell id="4wDlF7Djv2WkwEUpA_HG-32" value="是" style="startArrow=none;endArrow=block;entryX=0.5;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" target="4wDlF7Djv2WkwEUpA_HG-11">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="480" y="360" />
-              <mxPoint x="635" y="360" />
+              <mxPoint x="480" y="330" />
+              <mxPoint x="635" y="330" />
+              <mxPoint x="635" y="378" />
             </Array>
             <mxPoint x="480" y="300" as="sourcePoint" />
           </mxGeometry>
