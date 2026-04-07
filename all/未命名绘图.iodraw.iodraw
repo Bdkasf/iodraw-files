@@ -23,7 +23,7 @@
           <mxGeometry x="3637" y="345" width="108" height="49" as="geometry" />
         </mxCell>
         <mxCell id="ZhHS88tWq8llOajLPZ2o-7" value="前台工作人员" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="3839" y="345" width="156" height="49" as="geometry" />
+          <mxGeometry x="3823" y="345" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="ZhHS88tWq8llOajLPZ2o-8" value="LoginDialog 登录界面" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="3685" y="494" width="211" height="49" as="geometry" />
@@ -65,7 +65,7 @@
           <mxGeometry x="4437" y="791" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="ZhHS88tWq8llOajLPZ2o-19" value="TrendChartWidget 图表组件" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="4328" y="915" width="170" height="49" as="geometry" />
+          <mxGeometry x="4330" y="880" width="170" height="49" as="geometry" />
         </mxCell>
         <mxCell id="ZhHS88tWq8llOajLPZ2o-20" value="MemberService" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="3650" y="1045" width="170" height="49" as="geometry" />
