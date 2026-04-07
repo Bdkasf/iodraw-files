@@ -14,12 +14,12 @@
         </mxCell>
         <mxCell id="LUN7ujRJ9Dw9Ekqw7Z7X-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="LUN7ujRJ9Dw9Ekqw7Z7X-8">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="680" y="420" as="sourcePoint" />
+            <mxPoint x="1130" y="320" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="LUN7ujRJ9Dw9Ekqw7Z7X-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="LUN7ujRJ9Dw9Ekqw7Z7X-9">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="680" y="420" as="sourcePoint" />
+            <mxPoint x="1130" y="320" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="LUN7ujRJ9Dw9Ekqw7Z7X-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="LUN7ujRJ9Dw9Ekqw7Z7X-1" target="LUN7ujRJ9Dw9Ekqw7Z7X-10">
@@ -40,22 +40,22 @@
           <mxGeometry x="360" y="250" width="150" height="50" as="geometry" />
         </mxCell>
         <mxCell id="LUN7ujRJ9Dw9Ekqw7Z7X-5" value="消费结算" style="whiteSpace=wrap;strokeWidth=2;fontSize=25;" vertex="1" parent="1">
-          <mxGeometry x="290" y="610" width="150" height="50" as="geometry" />
+          <mxGeometry x="530" y="250" width="150" height="50" as="geometry" />
         </mxCell>
         <mxCell id="LUN7ujRJ9Dw9Ekqw7Z7X-6" value="积分兑换" style="whiteSpace=wrap;strokeWidth=2;fontSize=25;" vertex="1" parent="1">
           <mxGeometry x="570" y="250" width="150" height="50" as="geometry" />
         </mxCell>
         <mxCell id="LUN7ujRJ9Dw9Ekqw7Z7X-7" value="预约调度" style="whiteSpace=wrap;strokeWidth=2;fontSize=25;flipH=1;" vertex="1" parent="1">
-          <mxGeometry x="740" y="200" width="150" height="50" as="geometry" />
+          <mxGeometry x="1190" y="100" width="150" height="50" as="geometry" />
         </mxCell>
         <mxCell id="LUN7ujRJ9Dw9Ekqw7Z7X-8" value="报表统计" style="whiteSpace=wrap;strokeWidth=2;fontSize=25;flipH=1;" vertex="1" parent="1">
-          <mxGeometry x="740" y="320" width="150" height="50" as="geometry" />
+          <mxGeometry x="1190" y="220" width="150" height="50" as="geometry" />
         </mxCell>
         <mxCell id="LUN7ujRJ9Dw9Ekqw7Z7X-9" value="账号管理" style="whiteSpace=wrap;strokeWidth=2;fontSize=25;flipH=1;" vertex="1" parent="1">
-          <mxGeometry x="740" y="450" width="150" height="50" as="geometry" />
+          <mxGeometry x="1190" y="350" width="150" height="50" as="geometry" />
         </mxCell>
         <mxCell id="LUN7ujRJ9Dw9Ekqw7Z7X-10" value="操作审计" style="whiteSpace=wrap;strokeWidth=2;fontSize=25;flipH=1;" vertex="1" parent="1">
-          <mxGeometry x="740" y="600" width="150" height="50" as="geometry" />
+          <mxGeometry x="1190" y="500" width="150" height="50" as="geometry" />
         </mxCell>
         <mxCell id="LUN7ujRJ9Dw9Ekqw7Z7X-41" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.464;entryY=0.02;rounded=0;entryDx=0;entryDy=0;fontSize=25;edgeStyle=orthogonalEdgeStyle;exitDx=0;exitDy=0;entryPerimeter=0;" edge="1" parent="1" source="LUN7ujRJ9Dw9Ekqw7Z7X-1" target="LUN7ujRJ9Dw9Ekqw7Z7X-2">
           <mxGeometry relative="1" as="geometry">
@@ -78,8 +78,8 @@
         </mxCell>
         <mxCell id="LUN7ujRJ9Dw9Ekqw7Z7X-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=25;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="803.1111111111109" y="580.9999999999998" as="sourcePoint" />
-            <mxPoint x="803.1111111111109" y="580.9999999999998" as="targetPoint" />
+            <mxPoint x="1253.1111111111109" y="480.9999999999998" as="sourcePoint" />
+            <mxPoint x="1253.1111111111109" y="480.9999999999998" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
