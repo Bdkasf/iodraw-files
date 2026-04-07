@@ -17,7 +17,7 @@
           <mxGeometry x="290" y="420" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="LUN7ujRJ9Dw9Ekqw7Z7X-5" value="消费结算" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="283" y="650" width="124" height="49" as="geometry" />
+          <mxGeometry x="312" y="633.5" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="LUN7ujRJ9Dw9Ekqw7Z7X-6" value="积分兑换" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="522" y="271" width="124" height="49" as="geometry" />
@@ -65,16 +65,16 @@
           <mxGeometry x="88" y="590" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="LUN7ujRJ9Dw9Ekqw7Z7X-22" value="项目选择" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="60" y="670" width="124" height="49" as="geometry" />
+          <mxGeometry x="89" y="653.5" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="LUN7ujRJ9Dw9Ekqw7Z7X-23" value="折扣计算" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="59" y="730" width="124" height="49" as="geometry" />
+          <mxGeometry x="88" y="713.5" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="LUN7ujRJ9Dw9Ekqw7Z7X-24" value="余额结算" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="59" y="800" width="124" height="49" as="geometry" />
+          <mxGeometry x="88" y="783.5" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="LUN7ujRJ9Dw9Ekqw7Z7X-25" value="积分累计" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="60" y="860" width="124" height="49" as="geometry" />
+          <mxGeometry x="89" y="843.5" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="LUN7ujRJ9Dw9Ekqw7Z7X-26" value="礼品兑换" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="430" y="160" width="124" height="49" as="geometry" />
