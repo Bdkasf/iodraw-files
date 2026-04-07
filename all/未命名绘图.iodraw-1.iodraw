@@ -23,13 +23,13 @@
           <mxGeometry x="323" y="525" width="140" height="49" as="geometry" />
         </mxCell>
         <mxCell id="yGH4qePVHIzP8h_ANEZK-7" value="是否放大查看" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="270" y="624" width="240" height="106" as="geometry" />
+          <mxGeometry x="273" y="600" width="240" height="106" as="geometry" />
         </mxCell>
         <mxCell id="yGH4qePVHIzP8h_ANEZK-8" value="正常查看图表" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="200" y="842" width="156" height="49" as="geometry" />
+          <mxGeometry x="200" y="760" width="204" height="49" as="geometry" />
         </mxCell>
         <mxCell id="yGH4qePVHIzP8h_ANEZK-9" value="双击放大并滚轮缩放" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="406" y="842" width="204" height="49" as="geometry" />
+          <mxGeometry x="400" y="760" width="204" height="49" as="geometry" />
         </mxCell>
         <mxCell id="yGH4qePVHIzP8h_ANEZK-11" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontSize=18;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="yGH4qePVHIzP8h_ANEZK-1" target="yGH4qePVHIzP8h_ANEZK-2">
           <mxGeometry relative="1" as="geometry" />
