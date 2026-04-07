@@ -26,7 +26,7 @@
           <mxGeometry x="430" y="320" width="188" height="49" as="geometry" />
         </mxCell>
         <mxCell id="fom5yYNhUgjhsplKfidb-7" value="更新积分、累计消费" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="152" y="400" width="188" height="67" as="geometry" />
+          <mxGeometry x="152" y="400" width="188" height="49" as="geometry" />
         </mxCell>
         <mxCell id="fom5yYNhUgjhsplKfidb-9" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;fontSize=20;" edge="1" parent="1" source="fom5yYNhUgjhsplKfidb-1" target="fom5yYNhUgjhsplKfidb-2">
           <mxGeometry relative="1" as="geometry" />
