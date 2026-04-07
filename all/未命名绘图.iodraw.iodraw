@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="avgjTx9-wl4suVrIr1Yl-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="avgjTx9-wl4suVrIr1Yl-2" target="avgjTx9-wl4suVrIr1Yl-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="avgjTx9-wl4suVrIr1Yl-2" value="进入会员管理页面" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="354" y="120" width="120" height="60" as="geometry" />
         </mxCell>
@@ -149,6 +152,9 @@
         </mxCell>
         <mxCell id="avgjTx9-wl4suVrIr1Yl-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=-0.008;entryY=0.633;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="avgjTx9-wl4suVrIr1Yl-22" target="avgjTx9-wl4suVrIr1Yl-43">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="avgjTx9-wl4suVrIr1Yl-50" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="440" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
