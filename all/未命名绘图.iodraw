@@ -23,7 +23,7 @@
           <mxGeometry x="502.5" y="1220" width="188" height="49" as="geometry" />
         </mxCell>
         <mxCell id="Jfw2tQfTeO33Q57Rp1w0-41" value="账号密码角色是否匹配" style="rhombus;strokeWidth=2;whiteSpace=wrap;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="290.5" y="1230" width="153" height="140" as="geometry" />
+          <mxGeometry x="287.5" y="1220" width="153" height="140" as="geometry" />
         </mxCell>
         <mxCell id="Jfw2tQfTeO33Q57Rp1w0-42" value="提示登录失败" style="whiteSpace=wrap;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="70" y="1160" width="156" height="49" as="geometry" />
