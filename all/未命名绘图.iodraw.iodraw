@@ -43,6 +43,9 @@
         <mxCell id="avgjTx9-wl4suVrIr1Yl-7" value="统计最近消费等" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="690" y="210" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="avgjTx9-wl4suVrIr1Yl-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="avgjTx9-wl4suVrIr1Yl-8" target="avgjTx9-wl4suVrIr1Yl-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="avgjTx9-wl4suVrIr1Yl-8" value="输入充值金额" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="570" y="290" width="120" height="60" as="geometry" />
         </mxCell>
@@ -154,7 +157,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="avgjTx9-wl4suVrIr1Yl-50" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="370" y="440" width="80" height="80" as="geometry" />
+          <mxGeometry x="640" y="360" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
