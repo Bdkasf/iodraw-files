@@ -89,19 +89,22 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="avgjTx9-wl4suVrIr1Yl-30" value="回填表单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="380" width="120" height="40" as="geometry" />
+          <mxGeometry x="320" y="380" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="avgjTx9-wl4suVrIr1Yl-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="avgjTx9-wl4suVrIr1Yl-32" target="avgjTx9-wl4suVrIr1Yl-34">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="avgjTx9-wl4suVrIr1Yl-32" value="修改后保存" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="444" width="120" height="40" as="geometry" />
+          <mxGeometry x="320" y="444" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="avgjTx9-wl4suVrIr1Yl-34" value="更新会员信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="510" width="120" height="40" as="geometry" />
+          <mxGeometry x="320" y="500" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="avgjTx9-wl4suVrIr1Yl-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="avgjTx9-wl4suVrIr1Yl-30" target="avgjTx9-wl4suVrIr1Yl-30">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="avgjTx9-wl4suVrIr1Yl-37" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="474" y="370" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
