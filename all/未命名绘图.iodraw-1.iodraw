@@ -55,25 +55,25 @@
           <mxGeometry x="370" y="480" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="4wDlF7Djv2WkwEUpA_HG-15" value="更新会员积分" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1036" y="1062" width="156" height="49" as="geometry" />
+          <mxGeometry x="367" y="560" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="4wDlF7Djv2WkwEUpA_HG-16" value="更新累计消费金额" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1020" y="1161" width="188" height="49" as="geometry" />
+          <mxGeometry x="351" y="659" width="188" height="49" as="geometry" />
         </mxCell>
         <mxCell id="4wDlF7Djv2WkwEUpA_HG-17" value="是否达到升级条件" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1025" y="1260" width="177" height="177" as="geometry" />
+          <mxGeometry x="356" y="758" width="177" height="177" as="geometry" />
         </mxCell>
         <mxCell id="4wDlF7Djv2WkwEUpA_HG-18" value="自动升级会员等级" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="909" y="1510" width="188" height="49" as="geometry" />
+          <mxGeometry x="240" y="1008" width="188" height="49" as="geometry" />
         </mxCell>
         <mxCell id="4wDlF7Djv2WkwEUpA_HG-19" value="保持当前等级" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1147" y="1510" width="156" height="49" as="geometry" />
+          <mxGeometry x="478" y="1008" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="4wDlF7Djv2WkwEUpA_HG-20" value="写入操作日志" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1036" y="1609" width="156" height="49" as="geometry" />
+          <mxGeometry x="367" y="1107" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="4wDlF7Djv2WkwEUpA_HG-21" value="刷新消费记录和看板" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1012" y="1708" width="204" height="49" as="geometry" />
+          <mxGeometry x="343" y="1206" width="204" height="49" as="geometry" />
         </mxCell>
         <mxCell id="4wDlF7Djv2WkwEUpA_HG-23" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="4wDlF7Djv2WkwEUpA_HG-1" target="4wDlF7Djv2WkwEUpA_HG-2">
           <mxGeometry relative="1" as="geometry">
