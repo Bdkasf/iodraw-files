@@ -17,10 +17,10 @@
           <mxGeometry x="122" y="290" width="230" height="73" as="geometry" />
         </mxCell>
         <mxCell id="9y_jed01Y7JRP45d7DiQ-5" value="显示项目或礼品报表" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="30" y="460" width="204" height="49" as="geometry" />
+          <mxGeometry x="20" y="420" width="204" height="49" as="geometry" />
         </mxCell>
         <mxCell id="9y_jed01Y7JRP45d7DiQ-6" value="导出报表数据" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="270" y="460" width="204" height="49" as="geometry" />
+          <mxGeometry x="270" y="420" width="204" height="49" as="geometry" />
         </mxCell>
         <mxCell id="9y_jed01Y7JRP45d7DiQ-8" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;fontSize=20;" edge="1" parent="1" source="9y_jed01Y7JRP45d7DiQ-1" target="9y_jed01Y7JRP45d7DiQ-2">
           <mxGeometry relative="1" as="geometry" />
@@ -31,7 +31,7 @@
         <mxCell id="9y_jed01Y7JRP45d7DiQ-10" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;fontSize=20;" edge="1" parent="1" source="9y_jed01Y7JRP45d7DiQ-3" target="9y_jed01Y7JRP45d7DiQ-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="9y_jed01Y7JRP45d7DiQ-11" value="查看明细" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;exitDx=0;exitDy=0;fontSize=20;" edge="1" parent="1" source="9y_jed01Y7JRP45d7DiQ-4" target="9y_jed01Y7JRP45d7DiQ-5">
+        <mxCell id="9y_jed01Y7JRP45d7DiQ-11" value="查看明细" style="startArrow=none;endArrow=block;exitX=0;exitY=0.5;entryX=0.5;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;exitDx=0;exitDy=0;fontSize=20;" edge="1" parent="1" source="9y_jed01Y7JRP45d7DiQ-4" target="9y_jed01Y7JRP45d7DiQ-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9y_jed01Y7JRP45d7DiQ-12" value="导出报表" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;exitDx=0;exitDy=0;fontSize=20;" edge="1" parent="1" source="9y_jed01Y7JRP45d7DiQ-4" target="9y_jed01Y7JRP45d7DiQ-6">
