@@ -10,6 +10,12 @@
         <mxCell id="LUN7ujRJ9Dw9Ekqw7Z7X-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="LUN7ujRJ9Dw9Ekqw7Z7X-1" target="LUN7ujRJ9Dw9Ekqw7Z7X-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="LUN7ujRJ9Dw9Ekqw7Z7X-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="LUN7ujRJ9Dw9Ekqw7Z7X-1" target="LUN7ujRJ9Dw9Ekqw7Z7X-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LUN7ujRJ9Dw9Ekqw7Z7X-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="LUN7ujRJ9Dw9Ekqw7Z7X-1" target="LUN7ujRJ9Dw9Ekqw7Z7X-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="LUN7ujRJ9Dw9Ekqw7Z7X-1" value="温泉会员管理系统" style="whiteSpace=wrap;strokeWidth=2;fontSize=25;" vertex="1" parent="1">
           <mxGeometry x="488" y="390" width="188" height="60" as="geometry" />
         </mxCell>
