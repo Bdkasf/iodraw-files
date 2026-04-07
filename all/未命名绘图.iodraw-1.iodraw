@@ -61,23 +61,6 @@
         <mxCell id="97mAf6U9G7aBORvAxY8k-31" value="会员、消费、预约、礼品、充值" style="whiteSpace=wrap;strokeWidth=2;fontSize=25;" vertex="1" parent="1">
           <mxGeometry x="245" y="1210" width="252" height="67" as="geometry" />
         </mxCell>
-        <mxCell id="97mAf6U9G7aBORvAxY8k-41" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.74;exitY=1;entryX=0.5;entryY=0;rounded=0;fontSize=25;" edge="1" parent="1" source="97mAf6U9G7aBORvAxY8k-27" target="97mAf6U9G7aBORvAxY8k-29">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="552" y="927" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="97mAf6U9G7aBORvAxY8k-42" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontSize=25;" edge="1" parent="1" source="97mAf6U9G7aBORvAxY8k-28" target="97mAf6U9G7aBORvAxY8k-30">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="97mAf6U9G7aBORvAxY8k-43" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontSize=25;" edge="1" parent="1" source="97mAf6U9G7aBORvAxY8k-30" target="97mAf6U9G7aBORvAxY8k-31">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
