@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="1WYnFCgcM_5pAeiR4JQT">
-    <mxGraphModel dx="2066" dy="1143" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1202" dy="731" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -78,9 +78,6 @@
         </mxCell>
         <mxCell id="qdfP1Zq6PderVdKy93vA-24" value="识别高价值/沉睡/流失风险标签" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1410" y="738" width="253" height="67" as="geometry" />
-        </mxCell>
-        <mxCell id="qdfP1Zq6PderVdKy93vA-25" value="```" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1037" y="30" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qdfP1Zq6PderVdKy93vA-26" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="qdfP1Zq6PderVdKy93vA-1" target="qdfP1Zq6PderVdKy93vA-2">
           <mxGeometry relative="1" as="geometry">
