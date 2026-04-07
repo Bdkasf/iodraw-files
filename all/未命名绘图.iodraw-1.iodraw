@@ -17,7 +17,7 @@
           <mxGeometry x="-10" y="480" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="LUN7ujRJ9Dw9Ekqw7Z7X-5" value="消费结算" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="2199" y="119" width="124" height="49" as="geometry" />
+          <mxGeometry x="-22" y="740" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="LUN7ujRJ9Dw9Ekqw7Z7X-6" value="积分兑换" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="2808" y="119" width="124" height="49" as="geometry" />
@@ -68,16 +68,16 @@
           <mxGeometry x="251" y="579" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="LUN7ujRJ9Dw9Ekqw7Z7X-22" value="项目选择" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1938" y="218" width="124" height="49" as="geometry" />
+          <mxGeometry x="-283" y="839" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="LUN7ujRJ9Dw9Ekqw7Z7X-23" value="折扣计算" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="2112" y="218" width="124" height="49" as="geometry" />
+          <mxGeometry x="-109" y="839" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="LUN7ujRJ9Dw9Ekqw7Z7X-24" value="余额结算" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="2286" y="218" width="124" height="49" as="geometry" />
+          <mxGeometry x="65" y="839" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="LUN7ujRJ9Dw9Ekqw7Z7X-25" value="积分累计" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="2460" y="218" width="124" height="49" as="geometry" />
+          <mxGeometry x="239" y="839" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="LUN7ujRJ9Dw9Ekqw7Z7X-26" value="礼品兑换" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="2634" y="218" width="124" height="49" as="geometry" />
@@ -262,28 +262,28 @@
         <mxCell id="LUN7ujRJ9Dw9Ekqw7Z7X-61" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.74;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="LUN7ujRJ9Dw9Ekqw7Z7X-5" target="LUN7ujRJ9Dw9Ekqw7Z7X-22">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="2000" y="193" />
+              <mxPoint x="-221" y="814" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="LUN7ujRJ9Dw9Ekqw7Z7X-62" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.15;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="LUN7ujRJ9Dw9Ekqw7Z7X-5" target="LUN7ujRJ9Dw9Ekqw7Z7X-23">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="2174" y="193" />
+              <mxPoint x="-47" y="814" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="LUN7ujRJ9Dw9Ekqw7Z7X-63" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.85;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="LUN7ujRJ9Dw9Ekqw7Z7X-5" target="LUN7ujRJ9Dw9Ekqw7Z7X-24">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="2348" y="193" />
+              <mxPoint x="127" y="814" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="LUN7ujRJ9Dw9Ekqw7Z7X-64" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.74;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="LUN7ujRJ9Dw9Ekqw7Z7X-5" target="LUN7ujRJ9Dw9Ekqw7Z7X-25">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="2522" y="193" />
+              <mxPoint x="301" y="814" />
             </Array>
           </mxGeometry>
         </mxCell>
