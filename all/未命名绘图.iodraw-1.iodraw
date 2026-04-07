@@ -44,7 +44,7 @@
           <mxGeometry x="652" y="904" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="qdfP1Zq6PderVdKy93vA-14" value="管理员选择会员" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="858" y="337" width="172" height="49" as="geometry" />
+          <mxGeometry x="857.5" y="289" width="172" height="49" as="geometry" />
         </mxCell>
         <mxCell id="qdfP1Zq6PderVdKy93vA-15" value="是否确认删除" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="871" y="459" width="145" height="145" as="geometry" />
@@ -56,7 +56,7 @@
           <mxGeometry x="1003" y="904" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="qdfP1Zq6PderVdKy93vA-18" value="输入充值金额" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1281" y="337" width="156" height="49" as="geometry" />
+          <mxGeometry x="1260" y="289" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="qdfP1Zq6PderVdKy93vA-19" value="金额是否有效" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1287" y="459" width="145" height="145" as="geometry" />
