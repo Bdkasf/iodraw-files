@@ -8,7 +8,7 @@
           <mxGeometry x="410" y="750" width="188" height="49" as="geometry" />
         </mxCell>
         <mxCell id="LUN7ujRJ9Dw9Ekqw7Z7X-2" value="登录与欢迎引导" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="126" y="119" width="172" height="49" as="geometry" />
+          <mxGeometry x="-34" y="437" width="172" height="49" as="geometry" />
         </mxCell>
         <mxCell id="LUN7ujRJ9Dw9Ekqw7Z7X-3" value="经营看板" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="747" y="119" width="124" height="49" as="geometry" />
@@ -35,13 +35,13 @@
           <mxGeometry x="4722" y="119" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="LUN7ujRJ9Dw9Ekqw7Z7X-11" value="登录认证" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-20" y="218" width="124" height="49" as="geometry" />
+          <mxGeometry x="-180" y="536" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="LUN7ujRJ9Dw9Ekqw7Z7X-12" value="角色权限" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="154" y="218" width="124" height="49" as="geometry" />
+          <mxGeometry x="-6" y="536" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="LUN7ujRJ9Dw9Ekqw7Z7X-13" value="欢迎页" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="328" y="218" width="108" height="49" as="geometry" />
+          <mxGeometry x="168" y="536" width="108" height="49" as="geometry" />
         </mxCell>
         <mxCell id="LUN7ujRJ9Dw9Ekqw7Z7X-14" value="经营指标" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="486" y="218" width="124" height="49" as="geometry" />
@@ -185,21 +185,21 @@
         <mxCell id="LUN7ujRJ9Dw9Ekqw7Z7X-50" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.01;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="LUN7ujRJ9Dw9Ekqw7Z7X-2" target="LUN7ujRJ9Dw9Ekqw7Z7X-11">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="42" y="193" />
+              <mxPoint x="-118" y="511" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="LUN7ujRJ9Dw9Ekqw7Z7X-51" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.51;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="LUN7ujRJ9Dw9Ekqw7Z7X-2" target="LUN7ujRJ9Dw9Ekqw7Z7X-12">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="216" y="193" />
+              <mxPoint x="56" y="511" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="LUN7ujRJ9Dw9Ekqw7Z7X-52" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.99;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="LUN7ujRJ9Dw9Ekqw7Z7X-2" target="LUN7ujRJ9Dw9Ekqw7Z7X-13">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="382" y="193" />
+              <mxPoint x="222" y="511" />
             </Array>
           </mxGeometry>
         </mxCell>
