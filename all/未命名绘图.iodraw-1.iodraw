@@ -95,8 +95,13 @@
         <mxCell id="qdfP1Zq6PderVdKy93vA-29" value="否" style="startArrow=none;endArrow=block;exitX=0.28;exitY=1;entryX=0.4;entryY=0;rounded=0;" edge="1" parent="1" source="qdfP1Zq6PderVdKy93vA-4" target="qdfP1Zq6PderVdKy93vA-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qdfP1Zq6PderVdKy93vA-30" value="" style="startArrow=none;endArrow=block;exitX=0;exitY=0.5;entryX=0.75;entryY=1;rounded=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="qdfP1Zq6PderVdKy93vA-5" target="qdfP1Zq6PderVdKy93vA-3">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="qdfP1Zq6PderVdKy93vA-30" value="" style="startArrow=none;endArrow=block;exitX=0;exitY=0.5;entryX=-0.016;entryY=0.418;rounded=0;exitDx=0;exitDy=0;entryDx=0;entryDy=0;entryPerimeter=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="qdfP1Zq6PderVdKy93vA-5" target="qdfP1Zq6PderVdKy93vA-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="80" y="785" />
+              <mxPoint x="80" y="308" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="qdfP1Zq6PderVdKy93vA-31" value="是" style="startArrow=none;endArrow=block;exitX=1;exitY=0.91;entryX=0.32;entryY=0;rounded=0;" edge="1" parent="1" source="qdfP1Zq6PderVdKy93vA-4" target="qdfP1Zq6PderVdKy93vA-6">
           <mxGeometry relative="1" as="geometry" />
