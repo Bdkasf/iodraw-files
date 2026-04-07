@@ -20,19 +20,19 @@
           <mxGeometry x="141" y="390" width="154" height="154" as="geometry" />
         </mxCell>
         <mxCell id="3Y5xCTVhRqRy2KR1GcjI-6" value="提示充值金额无效" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-11.5" y="1581" width="188" height="49" as="geometry" />
+          <mxGeometry x="-218.5" y="900" width="188" height="49" as="geometry" />
         </mxCell>
         <mxCell id="3Y5xCTVhRqRy2KR1GcjI-7" value="更新会员余额" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="226.5" y="1581" width="156" height="49" as="geometry" />
+          <mxGeometry x="19.5" y="900" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="3Y5xCTVhRqRy2KR1GcjI-8" value="写入充值记录" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="226.5" y="1680" width="156" height="49" as="geometry" />
+          <mxGeometry x="19.5" y="999" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="3Y5xCTVhRqRy2KR1GcjI-9" value="刷新会员信息与看板" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="202.5" y="1779" width="204" height="49" as="geometry" />
+          <mxGeometry x="-4.5" y="1098" width="204" height="49" as="geometry" />
         </mxCell>
         <mxCell id="3Y5xCTVhRqRy2KR1GcjI-10" value="结束" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="474.5" y="1878" width="92" height="49" as="geometry" />
+          <mxGeometry x="267.5" y="1197" width="92" height="49" as="geometry" />
         </mxCell>
         <mxCell id="3Y5xCTVhRqRy2KR1GcjI-11" value="选择消费项目" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="577.5" y="320" width="156" height="49" as="geometry" />
@@ -62,13 +62,13 @@
           <mxGeometry x="650" y="870" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="3Y5xCTVhRqRy2KR1GcjI-20" value="更新会员积分与累计消费" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="537.5" y="1581" width="236" height="49" as="geometry" />
+          <mxGeometry x="330.5" y="900" width="236" height="49" as="geometry" />
         </mxCell>
         <mxCell id="3Y5xCTVhRqRy2KR1GcjI-21" value="判断是否自动升级" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="561.5" y="1680" width="188" height="49" as="geometry" />
+          <mxGeometry x="354.5" y="999" width="188" height="49" as="geometry" />
         </mxCell>
         <mxCell id="3Y5xCTVhRqRy2KR1GcjI-22" value="刷新消费记录与会员信息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="537.5" y="1779" width="236" height="49" as="geometry" />
+          <mxGeometry x="330.5" y="1098" width="236" height="49" as="geometry" />
         </mxCell>
         <mxCell id="3Y5xCTVhRqRy2KR1GcjI-24" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="3Y5xCTVhRqRy2KR1GcjI-1" target="3Y5xCTVhRqRy2KR1GcjI-2">
           <mxGeometry relative="1" as="geometry">
