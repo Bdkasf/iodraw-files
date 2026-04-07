@@ -20,7 +20,7 @@
           <mxGeometry x="283" y="650" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="LUN7ujRJ9Dw9Ekqw7Z7X-6" value="积分兑换" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="530" y="210" width="124" height="49" as="geometry" />
+          <mxGeometry x="522" y="271" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="LUN7ujRJ9Dw9Ekqw7Z7X-7" value="预约调度" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1296" y="41" width="124" height="49" as="geometry" />
