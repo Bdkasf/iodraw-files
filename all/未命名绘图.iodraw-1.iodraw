@@ -23,7 +23,7 @@
           <mxGeometry x="522" y="271" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="LUN7ujRJ9Dw9Ekqw7Z7X-7" value="预约调度" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1044" y="180.5" width="124" height="49" as="geometry" />
+          <mxGeometry x="950" y="120" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="LUN7ujRJ9Dw9Ekqw7Z7X-8" value="报表统计" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1877" y="41" width="124" height="49" as="geometry" />
@@ -235,12 +235,12 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LUN7ujRJ9Dw9Ekqw7Z7X-70" value="" style="curved=1;startArrow=none;endArrow=block;entryX=0;entryY=0.5;rounded=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="LUN7ujRJ9Dw9Ekqw7Z7X-31">
+        <mxCell id="LUN7ujRJ9Dw9Ekqw7Z7X-70" value="" style="curved=1;startArrow=none;endArrow=block;entryX=0;entryY=0.5;rounded=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="LUN7ujRJ9Dw9Ekqw7Z7X-7" target="LUN7ujRJ9Dw9Ekqw7Z7X-31">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1280" y="254.5" />
             </Array>
-            <mxPoint x="1170" y="210" as="sourcePoint" />
+            <mxPoint x="1170" y="200" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="LUN7ujRJ9Dw9Ekqw7Z7X-71" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.76;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="LUN7ujRJ9Dw9Ekqw7Z7X-8" target="LUN7ujRJ9Dw9Ekqw7Z7X-32">
