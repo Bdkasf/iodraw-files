@@ -10,7 +10,7 @@
         <mxCell id="LUN7ujRJ9Dw9Ekqw7Z7X-2" value="登录与欢迎引导" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="242" y="160" width="172" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="LUN7ujRJ9Dw9Ekqw7Z7X-3" value="经营看板" style="whiteSpace=wrap;strokeWidth=2;fontSize=11;" vertex="1" parent="1">
+        <mxCell id="LUN7ujRJ9Dw9Ekqw7Z7X-3" value="经营看板" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="266" y="250" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="LUN7ujRJ9Dw9Ekqw7Z7X-4" value="会员管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
