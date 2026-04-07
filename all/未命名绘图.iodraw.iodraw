@@ -73,7 +73,7 @@
           <mxGeometry x="524.5" y="1530" width="188" height="49" as="geometry" />
         </mxCell>
         <mxCell id="Jfw2tQfTeO33Q57Rp1w0-44" value="显示欢迎引导页" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="320" y="1530" width="172" height="49" as="geometry" />
+          <mxGeometry x="118" y="1370" width="172" height="49" as="geometry" />
         </mxCell>
         <mxCell id="Jfw2tQfTeO33Q57Rp1w0-45" value="点击开始协同管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="312" y="1619" width="188" height="49" as="geometry" />
