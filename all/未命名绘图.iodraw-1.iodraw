@@ -42,6 +42,9 @@
         <mxCell id="4wDlF7Djv2WkwEUpA_HG-10" value="直接付款" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="386" y="380" width="124" height="49" as="geometry" />
         </mxCell>
+        <mxCell id="4wDlF7Djv2WkwEUpA_HG-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4wDlF7Djv2WkwEUpA_HG-11" target="4wDlF7Djv2WkwEUpA_HG-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="4wDlF7Djv2WkwEUpA_HG-11" value="会员余额是否充足" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="526" y="334" width="130" height="121" as="geometry" />
         </mxCell>
