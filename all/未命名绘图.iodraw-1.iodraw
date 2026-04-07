@@ -89,10 +89,10 @@
           <mxGeometry x="860" y="189" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="LUN7ujRJ9Dw9Ekqw7Z7X-30" value="冲突校验" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1044" y="279.5" width="124" height="49" as="geometry" />
+          <mxGeometry x="870" y="271" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="LUN7ujRJ9Dw9Ekqw7Z7X-31" value="状态处理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1218" y="279.5" width="124" height="49" as="geometry" />
+          <mxGeometry x="870" y="340" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="LUN7ujRJ9Dw9Ekqw7Z7X-32" value="趋势图" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1644" y="140" width="108" height="49" as="geometry" />
@@ -223,23 +223,16 @@
         <mxCell id="LUN7ujRJ9Dw9Ekqw7Z7X-67" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=0;entryX=0.5;entryY=1;rounded=0;entryDx=0;entryDy=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="LUN7ujRJ9Dw9Ekqw7Z7X-6" target="LUN7ujRJ9Dw9Ekqw7Z7X-28">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LUN7ujRJ9Dw9Ekqw7Z7X-68" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LUN7ujRJ9Dw9Ekqw7Z7X-7" target="LUN7ujRJ9Dw9Ekqw7Z7X-29">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="932" y="254.5" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="LUN7ujRJ9Dw9Ekqw7Z7X-68" value="" style="startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LUN7ujRJ9Dw9Ekqw7Z7X-7" target="LUN7ujRJ9Dw9Ekqw7Z7X-29">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LUN7ujRJ9Dw9Ekqw7Z7X-69" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LUN7ujRJ9Dw9Ekqw7Z7X-7" target="LUN7ujRJ9Dw9Ekqw7Z7X-30">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LUN7ujRJ9Dw9Ekqw7Z7X-70" value="" style="curved=1;startArrow=none;endArrow=block;entryX=0;entryY=0.5;rounded=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="LUN7ujRJ9Dw9Ekqw7Z7X-7" target="LUN7ujRJ9Dw9Ekqw7Z7X-31">
+        <mxCell id="LUN7ujRJ9Dw9Ekqw7Z7X-70" value="" style="startArrow=none;endArrow=block;entryX=0;entryY=0.5;rounded=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="LUN7ujRJ9Dw9Ekqw7Z7X-7" target="LUN7ujRJ9Dw9Ekqw7Z7X-31">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1280" y="254.5" />
-            </Array>
             <mxPoint x="1170" y="200" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
