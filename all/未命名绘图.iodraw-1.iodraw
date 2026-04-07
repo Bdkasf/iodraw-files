@@ -26,7 +26,7 @@
           <mxGeometry x="60" y="480" width="253" height="67" as="geometry" />
         </mxCell>
         <mxCell id="o-YJnA2EUqc50f2uyItU-8" value="结束" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="405" y="1627" width="92" height="49" as="geometry" />
+          <mxGeometry x="336" y="600" width="92" height="49" as="geometry" />
         </mxCell>
         <mxCell id="o-YJnA2EUqc50f2uyItU-9" value="选择统计维度: 日/月" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="507" y="373.5" width="207" height="40" as="geometry" />
