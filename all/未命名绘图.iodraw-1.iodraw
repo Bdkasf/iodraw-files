@@ -8,7 +8,7 @@
           <mxGeometry x="530" y="440" width="188" height="49" as="geometry" />
         </mxCell>
         <mxCell id="LUN7ujRJ9Dw9Ekqw7Z7X-2" value="登录与欢迎引导" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-22" y="70" width="172" height="49" as="geometry" />
+          <mxGeometry x="235" y="140" width="172" height="49" as="geometry" />
         </mxCell>
         <mxCell id="LUN7ujRJ9Dw9Ekqw7Z7X-3" value="经营看板" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="6" y="267" width="124" height="49" as="geometry" />
@@ -35,13 +35,13 @@
           <mxGeometry x="4722" y="119" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="LUN7ujRJ9Dw9Ekqw7Z7X-11" value="登录认证" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-240" y="10" width="124" height="49" as="geometry" />
+          <mxGeometry x="65" y="31" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="LUN7ujRJ9Dw9Ekqw7Z7X-12" value="角色权限" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-240" y="80" width="124" height="49" as="geometry" />
+          <mxGeometry x="65" y="91" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="LUN7ujRJ9Dw9Ekqw7Z7X-13" value="欢迎页" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-224" y="149" width="108" height="49" as="geometry" />
+          <mxGeometry x="81" y="149" width="108" height="49" as="geometry" />
         </mxCell>
         <mxCell id="LUN7ujRJ9Dw9Ekqw7Z7X-14" value="经营指标" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-255" y="366" width="124" height="49" as="geometry" />
