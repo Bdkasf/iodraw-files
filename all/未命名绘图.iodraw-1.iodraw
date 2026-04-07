@@ -23,10 +23,10 @@
           <mxGeometry x="220" y="440" width="220" height="49" as="geometry" />
         </mxCell>
         <mxCell id="365AUt9goiUaYlM2eMvR-7" value="进入系统主界面" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="220" y="520" width="172" height="49" as="geometry" />
+          <mxGeometry x="220" y="520" width="220" height="49" as="geometry" />
         </mxCell>
         <mxCell id="365AUt9goiUaYlM2eMvR-8" value="按角色分配权限" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="220" y="590" width="172" height="49" as="geometry" />
+          <mxGeometry x="220" y="590" width="220" height="49" as="geometry" />
         </mxCell>
         <mxCell id="365AUt9goiUaYlM2eMvR-10" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;fontSize=20;" edge="1" parent="1" source="365AUt9goiUaYlM2eMvR-1" target="365AUt9goiUaYlM2eMvR-2">
           <mxGeometry relative="1" as="geometry" />
