@@ -17,7 +17,7 @@
           <mxGeometry x="250" y="230" width="130" height="100" as="geometry" />
         </mxCell>
         <mxCell id="o-YJnA2EUqc50f2uyItU-5" value="是否进入报表统计页" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="424" y="297" width="193" height="193" as="geometry" />
+          <mxGeometry x="414" y="216.75" width="136" height="126.5" as="geometry" />
         </mxCell>
         <mxCell id="o-YJnA2EUqc50f2uyItU-6" value="查询对应会员明细或排行数据" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="60" y="360" width="252" height="67" as="geometry" />
