@@ -23,7 +23,7 @@
           <mxGeometry x="330" y="640" width="140" height="49" as="geometry" />
         </mxCell>
         <mxCell id="qdfP1Zq6PderVdKy93vA-7" value="刷新会员列表" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="760" y="774" width="156" height="49" as="geometry" />
+          <mxGeometry x="740" y="790" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="qdfP1Zq6PderVdKy93vA-8" value="输入关键字" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="454" y="298" width="140" height="49" as="geometry" />
@@ -50,10 +50,10 @@
           <mxGeometry x="863.5" y="430" width="145" height="145" as="geometry" />
         </mxCell>
         <mxCell id="qdfP1Zq6PderVdKy93vA-16" value="删除关联消费/兑换/预约记录" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="955" y="716" width="253" height="67" as="geometry" />
+          <mxGeometry x="930" y="599" width="253" height="67" as="geometry" />
         </mxCell>
         <mxCell id="qdfP1Zq6PderVdKy93vA-17" value="删除会员记录" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1003" y="904" width="156" height="49" as="geometry" />
+          <mxGeometry x="1050" y="920" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="qdfP1Zq6PderVdKy93vA-18" value="输入充值金额" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1070" y="298" width="156" height="49" as="geometry" />
