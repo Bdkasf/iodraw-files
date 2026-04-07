@@ -10,8 +10,8 @@
         <mxCell id="fom5yYNhUgjhsplKfidb-2" value="选择会员和消费项目" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="274" y="119" width="188" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="fom5yYNhUgjhsplKfidb-3" value="计算折扣、实付金额和积分" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="250" y="218" width="252" height="49" as="geometry" />
+        <mxCell id="fom5yYNhUgjhsplKfidb-3" value="计算折扣、实付金额" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="250" y="218" width="188" height="49" as="geometry" />
         </mxCell>
         <mxCell id="fom5yYNhUgjhsplKfidb-4" value="是否余额结算" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="261" y="300" width="230" height="80" as="geometry" />
