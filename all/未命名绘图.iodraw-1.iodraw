@@ -73,7 +73,7 @@
           <mxGeometry x="850" y="570" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="4wDlF7Djv2WkwEUpA_HG-20" value="写入操作日志" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1214" y="570" width="156" height="49" as="geometry" />
+          <mxGeometry x="1060" y="599" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="4wDlF7Djv2WkwEUpA_HG-21" value="刷新消费记录和看板" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1190" y="669" width="204" height="49" as="geometry" />
@@ -142,10 +142,10 @@
         <mxCell id="4wDlF7Djv2WkwEUpA_HG-40" value="" style="startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4wDlF7Djv2WkwEUpA_HG-16" target="4wDlF7Djv2WkwEUpA_HG-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4wDlF7Djv2WkwEUpA_HG-41" value="是" style="startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4wDlF7Djv2WkwEUpA_HG-17" target="4wDlF7Djv2WkwEUpA_HG-18">
+        <mxCell id="4wDlF7Djv2WkwEUpA_HG-41" value="是" style="startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;exitDx=0;exitDy=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="4wDlF7Djv2WkwEUpA_HG-17" target="4wDlF7Djv2WkwEUpA_HG-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4wDlF7Djv2WkwEUpA_HG-42" value="否" style="startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4wDlF7Djv2WkwEUpA_HG-17" target="4wDlF7Djv2WkwEUpA_HG-19">
+        <mxCell id="4wDlF7Djv2WkwEUpA_HG-42" value="否" style="startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;exitDx=0;exitDy=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="4wDlF7Djv2WkwEUpA_HG-17" target="4wDlF7Djv2WkwEUpA_HG-19">
           <mxGeometry x="-0.1697" relative="1" as="geometry">
             <mxPoint x="1" as="offset" />
           </mxGeometry>
