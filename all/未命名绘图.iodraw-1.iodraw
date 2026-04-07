@@ -5,16 +5,16 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="8jbCcZedk1J-at91qC05-1" value="用户登录或执行关键操作" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="29" y="20" width="236" height="49" as="geometry" />
+          <mxGeometry x="174" y="20" width="236" height="49" as="geometry" />
         </mxCell>
         <mxCell id="8jbCcZedk1J-at91qC05-2" value="系统写入操作日志" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="53" y="90" width="188" height="49" as="geometry" />
+          <mxGeometry x="198" y="90" width="188" height="49" as="geometry" />
         </mxCell>
         <mxCell id="8jbCcZedk1J-at91qC05-3" value="管理员进入操作审计页面" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="29" y="274" width="236" height="49" as="geometry" />
+          <mxGeometry x="174" y="168" width="236" height="49" as="geometry" />
         </mxCell>
         <mxCell id="8jbCcZedk1J-at91qC05-4" value="查看登录/充值/消费/兑换/预约/删除等日志" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="20" y="488" width="254" height="67" as="geometry" />
+          <mxGeometry x="165" y="240" width="254" height="67" as="geometry" />
         </mxCell>
         <mxCell id="8jbCcZedk1J-at91qC05-5" value="经营看板加载" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="478" y="20" width="156" height="49" as="geometry" />
