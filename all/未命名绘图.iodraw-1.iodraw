@@ -26,7 +26,7 @@
           <mxGeometry x="60" y="480" width="253" height="67" as="geometry" />
         </mxCell>
         <mxCell id="o-YJnA2EUqc50f2uyItU-8" value="结束" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="336" y="600" width="92" height="49" as="geometry" />
+          <mxGeometry x="317" y="590" width="92" height="49" as="geometry" />
         </mxCell>
         <mxCell id="o-YJnA2EUqc50f2uyItU-9" value="选择统计维度: 日/月" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="507" y="373.5" width="207" height="40" as="geometry" />
@@ -35,7 +35,7 @@
           <mxGeometry x="507" y="450" width="252" height="67" as="geometry" />
         </mxCell>
         <mxCell id="o-YJnA2EUqc50f2uyItU-11" value="生成线性趋势图" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="547" y="566" width="172" height="49" as="geometry" />
+          <mxGeometry x="547" y="541" width="172" height="49" as="geometry" />
         </mxCell>
         <mxCell id="o-YJnA2EUqc50f2uyItU-12" value="是否双击图表" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="561" y="688" width="145" height="145" as="geometry" />
