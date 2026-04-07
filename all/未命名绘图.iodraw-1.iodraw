@@ -107,7 +107,7 @@
           <mxGeometry x="878" y="584.5" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="LUN7ujRJ9Dw9Ekqw7Z7X-36" value="修改密码" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="720" y="739" width="124" height="49" as="geometry" />
+          <mxGeometry x="720" y="710" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="LUN7ujRJ9Dw9Ekqw7Z7X-37" value="前台账号管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="894" y="739" width="156" height="49" as="geometry" />
@@ -234,12 +234,8 @@
         <mxCell id="LUN7ujRJ9Dw9Ekqw7Z7X-74" value="" style="startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;entryDx=0;entryDy=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="LUN7ujRJ9Dw9Ekqw7Z7X-8" target="LUN7ujRJ9Dw9Ekqw7Z7X-35">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LUN7ujRJ9Dw9Ekqw7Z7X-75" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.47;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="LUN7ujRJ9Dw9Ekqw7Z7X-9" target="LUN7ujRJ9Dw9Ekqw7Z7X-36">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="782" y="714" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="LUN7ujRJ9Dw9Ekqw7Z7X-75" value="" style="startArrow=none;endArrow=block;exitX=0.47;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="LUN7ujRJ9Dw9Ekqw7Z7X-9" target="LUN7ujRJ9Dw9Ekqw7Z7X-36">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LUN7ujRJ9Dw9Ekqw7Z7X-76" value="" style="startArrow=none;endArrow=block;exitX=1;exitY=0.84;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="LUN7ujRJ9Dw9Ekqw7Z7X-9" target="LUN7ujRJ9Dw9Ekqw7Z7X-37">
           <mxGeometry relative="1" as="geometry" />
