@@ -68,7 +68,7 @@
           <mxGeometry x="910" y="574.5" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="LUN7ujRJ9Dw9Ekqw7Z7X-36" value="修改密码" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="720" y="670" width="124" height="49" as="geometry" />
+          <mxGeometry x="716" y="602" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="LUN7ujRJ9Dw9Ekqw7Z7X-37" value="前台账号管理" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="910" y="660" width="120" height="50" as="geometry" />
