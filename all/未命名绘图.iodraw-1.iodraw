@@ -38,7 +38,7 @@
           <mxGeometry x="577.5" y="320" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="3Y5xCTVhRqRy2KR1GcjI-12" value="读取项目标价" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="577.5" y="419" width="156" height="49" as="geometry" />
+          <mxGeometry x="577.5" y="400" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="3Y5xCTVhRqRy2KR1GcjI-13" value="根据会员等级计算折扣" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="545.5" y="518" width="220" height="49" as="geometry" />
