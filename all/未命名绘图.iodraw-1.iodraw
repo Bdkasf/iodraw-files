@@ -14,7 +14,7 @@
           <mxGeometry x="6" y="267" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="LUN7ujRJ9Dw9Ekqw7Z7X-4" value="会员管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1471" y="119" width="124" height="49" as="geometry" />
+          <mxGeometry x="-10" y="480" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="LUN7ujRJ9Dw9Ekqw7Z7X-5" value="消费结算" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="2199" y="119" width="124" height="49" as="geometry" />
@@ -56,16 +56,16 @@
           <mxGeometry x="267" y="366" width="140" height="49" as="geometry" />
         </mxCell>
         <mxCell id="LUN7ujRJ9Dw9Ekqw7Z7X-18" value="会员 CRUD" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1198" y="218" width="136" height="49" as="geometry" />
+          <mxGeometry x="-283" y="579" width="136" height="49" as="geometry" />
         </mxCell>
         <mxCell id="LUN7ujRJ9Dw9Ekqw7Z7X-19" value="会员充值" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1384" y="218" width="124" height="49" as="geometry" />
+          <mxGeometry x="-97" y="579" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="LUN7ujRJ9Dw9Ekqw7Z7X-20" value="会员标签" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1558" y="218" width="124" height="49" as="geometry" />
+          <mxGeometry x="77" y="579" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="LUN7ujRJ9Dw9Ekqw7Z7X-21" value="会员画像分析" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1732" y="218" width="156" height="49" as="geometry" />
+          <mxGeometry x="251" y="579" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="LUN7ujRJ9Dw9Ekqw7Z7X-22" value="项目选择" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1938" y="218" width="124" height="49" as="geometry" />
@@ -234,28 +234,28 @@
         <mxCell id="LUN7ujRJ9Dw9Ekqw7Z7X-57" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.73;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="LUN7ujRJ9Dw9Ekqw7Z7X-4" target="LUN7ujRJ9Dw9Ekqw7Z7X-18">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1266" y="193" />
+              <mxPoint x="-215" y="554" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="LUN7ujRJ9Dw9Ekqw7Z7X-58" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.15;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="LUN7ujRJ9Dw9Ekqw7Z7X-4" target="LUN7ujRJ9Dw9Ekqw7Z7X-19">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1446" y="193" />
+              <mxPoint x="-35" y="554" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="LUN7ujRJ9Dw9Ekqw7Z7X-59" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.85;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="LUN7ujRJ9Dw9Ekqw7Z7X-4" target="LUN7ujRJ9Dw9Ekqw7Z7X-20">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1620" y="193" />
+              <mxPoint x="139" y="554" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="LUN7ujRJ9Dw9Ekqw7Z7X-60" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.73;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="LUN7ujRJ9Dw9Ekqw7Z7X-4" target="LUN7ujRJ9Dw9Ekqw7Z7X-21">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1810" y="193" />
+              <mxPoint x="329" y="554" />
             </Array>
           </mxGeometry>
         </mxCell>
