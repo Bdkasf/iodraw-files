@@ -20,16 +20,16 @@
           <mxGeometry x="141" y="390" width="154" height="154" as="geometry" />
         </mxCell>
         <mxCell id="3Y5xCTVhRqRy2KR1GcjI-6" value="提示充值金额无效" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-218.5" y="900" width="188" height="49" as="geometry" />
+          <mxGeometry x="-90" y="560" width="188" height="49" as="geometry" />
         </mxCell>
         <mxCell id="3Y5xCTVhRqRy2KR1GcjI-7" value="更新会员余额" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="160" y="620" width="156" height="49" as="geometry" />
+          <mxGeometry x="141" y="560" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="3Y5xCTVhRqRy2KR1GcjI-8" value="写入充值记录" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="19.5" y="999" width="156" height="49" as="geometry" />
+          <mxGeometry x="141" y="640" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="3Y5xCTVhRqRy2KR1GcjI-9" value="刷新会员信息与看板" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-4.5" y="1098" width="204" height="49" as="geometry" />
+          <mxGeometry x="116" y="720" width="204" height="49" as="geometry" />
         </mxCell>
         <mxCell id="3Y5xCTVhRqRy2KR1GcjI-10" value="结束" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="247" y="999" width="92" height="49" as="geometry" />
