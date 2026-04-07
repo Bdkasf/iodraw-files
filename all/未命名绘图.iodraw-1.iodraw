@@ -35,13 +35,13 @@
           <mxGeometry x="490" y="585" width="120" height="115" as="geometry" />
         </mxCell>
         <mxCell id="KwmryITbxgx8AXOdWRwr-10" value="正常查看报表" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="220" y="767.5" width="156" height="49" as="geometry" />
+          <mxGeometry x="307" y="760" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="KwmryITbxgx8AXOdWRwr-11" value="弹出图表放大窗口" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="493" y="767.5" width="188" height="49" as="geometry" />
+          <mxGeometry x="580" y="760" width="188" height="49" as="geometry" />
         </mxCell>
         <mxCell id="KwmryITbxgx8AXOdWRwr-12" value="滚轮缩放图表" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="513" y="837.5" width="156" height="49" as="geometry" />
+          <mxGeometry x="600" y="830" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="KwmryITbxgx8AXOdWRwr-14" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="KwmryITbxgx8AXOdWRwr-1" target="KwmryITbxgx8AXOdWRwr-2">
           <mxGeometry relative="1" as="geometry" />
@@ -67,22 +67,18 @@
         <mxCell id="KwmryITbxgx8AXOdWRwr-22" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="KwmryITbxgx8AXOdWRwr-8" target="KwmryITbxgx8AXOdWRwr-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KwmryITbxgx8AXOdWRwr-23" value="否" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.3;entryY=-0.01;rounded=0;edgeStyle=orthogonalEdgeStyle;exitDx=0;exitDy=0;" edge="1" parent="1" target="KwmryITbxgx8AXOdWRwr-10">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="463" y="707.5" as="sourcePoint" />
-          </mxGeometry>
+        <mxCell id="KwmryITbxgx8AXOdWRwr-23" value="否" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.3;entryY=-0.01;rounded=0;edgeStyle=orthogonalEdgeStyle;exitDx=0;exitDy=0;" edge="1" parent="1" source="KwmryITbxgx8AXOdWRwr-9" target="KwmryITbxgx8AXOdWRwr-10">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KwmryITbxgx8AXOdWRwr-24" value="是" style="startArrow=none;endArrow=block;exitX=0;exitY=0.5;entryX=0.5;entryY=-0.01;rounded=0;edgeStyle=orthogonalEdgeStyle;exitDx=0;exitDy=0;" edge="1" parent="1" target="KwmryITbxgx8AXOdWRwr-11">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="403" y="650" as="sourcePoint" />
-          </mxGeometry>
+        <mxCell id="KwmryITbxgx8AXOdWRwr-24" value="是" style="startArrow=none;endArrow=block;exitX=0;exitY=0.5;entryX=0.5;entryY=-0.01;rounded=0;edgeStyle=orthogonalEdgeStyle;exitDx=0;exitDy=0;" edge="1" parent="1" source="KwmryITbxgx8AXOdWRwr-9" target="KwmryITbxgx8AXOdWRwr-11">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KwmryITbxgx8AXOdWRwr-25" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="KwmryITbxgx8AXOdWRwr-11" target="KwmryITbxgx8AXOdWRwr-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KwmryITbxgx8AXOdWRwr-26" value="" style="startArrow=none;endArrow=block;entryX=0.7;entryY=-0.01;rounded=0;edgeStyle=orthogonalEdgeStyle;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="KwmryITbxgx8AXOdWRwr-12" target="KwmryITbxgx8AXOdWRwr-10">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="591" y="887.5" as="sourcePoint" />
+            <mxPoint x="678" y="880" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
       </root>
