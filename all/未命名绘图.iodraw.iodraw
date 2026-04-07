@@ -65,7 +65,7 @@
           <mxGeometry x="4509" y="651" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="ZhHS88tWq8llOajLPZ2o-19" value="TrendChartWidget 图表组件" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="4361" y="775" width="259" height="49" as="geometry" />
+          <mxGeometry x="4400" y="775" width="220" height="49" as="geometry" />
         </mxCell>
         <mxCell id="ZhHS88tWq8llOajLPZ2o-20" value="MemberService" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="3628" y="1045" width="170" height="49" as="geometry" />
