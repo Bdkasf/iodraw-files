@@ -11,10 +11,10 @@
           <mxGeometry x="280" y="139" width="188" height="49" as="geometry" />
         </mxCell>
         <mxCell id="i25ZRBu0b-cY8WC9Szsy-3" value="进入操作审计页面" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="280" y="238" width="188" height="49" as="geometry" />
+          <mxGeometry x="280" y="220" width="188" height="49" as="geometry" />
         </mxCell>
         <mxCell id="i25ZRBu0b-cY8WC9Szsy-4" value="查看日志记录" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="296" y="337" width="188" height="49" as="geometry" />
+          <mxGeometry x="280" y="330" width="188" height="49" as="geometry" />
         </mxCell>
         <mxCell id="i25ZRBu0b-cY8WC9Szsy-6" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontSize=20;" edge="1" parent="1" source="i25ZRBu0b-cY8WC9Szsy-1" target="i25ZRBu0b-cY8WC9Szsy-2">
           <mxGeometry relative="1" as="geometry">
