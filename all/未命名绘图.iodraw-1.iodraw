@@ -23,7 +23,7 @@
           <mxGeometry x="-218.5" y="900" width="188" height="49" as="geometry" />
         </mxCell>
         <mxCell id="3Y5xCTVhRqRy2KR1GcjI-7" value="更新会员余额" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="19.5" y="900" width="156" height="49" as="geometry" />
+          <mxGeometry x="160" y="620" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="3Y5xCTVhRqRy2KR1GcjI-8" value="写入充值记录" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="19.5" y="999" width="156" height="49" as="geometry" />
@@ -87,7 +87,7 @@
         <mxCell id="3Y5xCTVhRqRy2KR1GcjI-28" value="否" style="startArrow=none;endArrow=block;exitX=0.01;exitY=1;entryX=0.5;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="3Y5xCTVhRqRy2KR1GcjI-5" target="3Y5xCTVhRqRy2KR1GcjI-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3Y5xCTVhRqRy2KR1GcjI-29" value="是" style="startArrow=none;endArrow=block;exitX=0.99;exitY=1;entryX=0.5;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="3Y5xCTVhRqRy2KR1GcjI-5" target="3Y5xCTVhRqRy2KR1GcjI-7">
+        <mxCell id="3Y5xCTVhRqRy2KR1GcjI-29" value="是" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;exitDx=0;exitDy=0;" edge="1" parent="1" source="3Y5xCTVhRqRy2KR1GcjI-5" target="3Y5xCTVhRqRy2KR1GcjI-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3Y5xCTVhRqRy2KR1GcjI-30" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="3Y5xCTVhRqRy2KR1GcjI-7" target="3Y5xCTVhRqRy2KR1GcjI-8">
