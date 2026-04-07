@@ -29,10 +29,10 @@
           <mxGeometry x="400" y="60" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="4wDlF7Djv2WkwEUpA_HG-9" value="是否为余额结算" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="397.5" y="139" width="161" height="161" as="geometry" />
+          <mxGeometry x="397.5" y="130" width="161" height="161" as="geometry" />
         </mxCell>
         <mxCell id="4wDlF7Djv2WkwEUpA_HG-10" value="直接付款" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="380" y="430" width="124" height="49" as="geometry" />
+          <mxGeometry x="386" y="380" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="4wDlF7Djv2WkwEUpA_HG-11" value="会员余额是否充足" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="570" y="400" width="130" height="121" as="geometry" />
@@ -44,7 +44,7 @@
           <mxGeometry x="1274" y="864" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="4wDlF7Djv2WkwEUpA_HG-14" value="写入消费记录" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1036" y="963" width="156" height="49" as="geometry" />
+          <mxGeometry x="370" y="550" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="4wDlF7Djv2WkwEUpA_HG-15" value="更新会员积分" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1036" y="1062" width="156" height="49" as="geometry" />
