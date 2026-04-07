@@ -58,13 +58,13 @@
           <mxGeometry x="370" y="465" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="4wDlF7Djv2WkwEUpA_HG-15" value="更新会员积分" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="367" y="560" width="156" height="49" as="geometry" />
+          <mxGeometry x="370" y="550" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="4wDlF7Djv2WkwEUpA_HG-16" value="更新累计消费金额" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="351" y="659" width="188" height="49" as="geometry" />
+          <mxGeometry x="354" y="630" width="188" height="49" as="geometry" />
         </mxCell>
         <mxCell id="4wDlF7Djv2WkwEUpA_HG-17" value="是否达到升级条件" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="356" y="758" width="177" height="177" as="geometry" />
+          <mxGeometry x="365" y="710" width="177" height="177" as="geometry" />
         </mxCell>
         <mxCell id="4wDlF7Djv2WkwEUpA_HG-18" value="自动升级会员等级" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="240" y="1008" width="188" height="49" as="geometry" />
