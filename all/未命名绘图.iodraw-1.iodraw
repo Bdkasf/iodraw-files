@@ -14,7 +14,7 @@
           <mxGeometry x="135" y="218" width="204" height="49" as="geometry" />
         </mxCell>
         <mxCell id="9y_jed01Y7JRP45d7DiQ-4" value="是否查看明细或导出" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="141" y="317" width="193" height="73" as="geometry" />
+          <mxGeometry x="122" y="317" width="230" height="73" as="geometry" />
         </mxCell>
         <mxCell id="9y_jed01Y7JRP45d7DiQ-5" value="显示项目或礼品报表" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="20" y="583" width="204" height="49" as="geometry" />
