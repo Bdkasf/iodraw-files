@@ -11,13 +11,18 @@
           <mxGeometry x="149" y="90" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="4wDlF7Djv2WkwEUpA_HG-3" value="读取会员等级、积分、余额" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="85" y="218" width="252" height="49" as="geometry" />
+          <mxGeometry x="85" y="160" width="252" height="49" as="geometry" />
         </mxCell>
         <mxCell id="4wDlF7Djv2WkwEUpA_HG-4" value="选择固定消费项目" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="117" y="317" width="188" height="49" as="geometry" />
+          <mxGeometry x="117" y="230" width="188" height="49" as="geometry" />
         </mxCell>
         <mxCell id="4wDlF7Djv2WkwEUpA_HG-5" value="读取项目标价" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="133" y="416" width="156" height="49" as="geometry" />
+          <mxGeometry x="133" y="300" width="156" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="4wDlF7Djv2WkwEUpA_HG-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="4wDlF7Djv2WkwEUpA_HG-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="211" y="420" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="4wDlF7Djv2WkwEUpA_HG-6" value="计算会员折扣" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="133" y="515" width="156" height="49" as="geometry" />
