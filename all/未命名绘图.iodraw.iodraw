@@ -70,7 +70,7 @@
           <mxGeometry x="26" y="800" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="Jfw2tQfTeO33Q57Rp1w0-43" value="写入登录审计日志" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="577.5" y="1300" width="188" height="49" as="geometry" />
+          <mxGeometry x="588" y="1190" width="188" height="49" as="geometry" />
         </mxCell>
         <mxCell id="Jfw2tQfTeO33Q57Rp1w0-44" value="显示欢迎引导页" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="430" y="1400" width="172" height="49" as="geometry" />
