@@ -8,10 +8,10 @@
           <mxGeometry x="229" y="20" width="172" height="49" as="geometry" />
         </mxCell>
         <mxCell id="o-YJnA2EUqc50f2uyItU-2" value="系统统计经营数据" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="221" y="119" width="188" height="49" as="geometry" />
+          <mxGeometry x="221" y="90" width="188" height="49" as="geometry" />
         </mxCell>
         <mxCell id="o-YJnA2EUqc50f2uyItU-3" value="加载经营看板卡片" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="221" y="218" width="188" height="49" as="geometry" />
+          <mxGeometry x="221" y="160" width="188" height="49" as="geometry" />
         </mxCell>
         <mxCell id="o-YJnA2EUqc50f2uyItU-4" value="是否点击指标卡片" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="226" y="317" width="177" height="177" as="geometry" />
@@ -45,9 +45,6 @@
         </mxCell>
         <mxCell id="o-YJnA2EUqc50f2uyItU-14" value="滚轮缩放查看曲线细节" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="494" y="1528" width="220" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="o-YJnA2EUqc50f2uyItU-15" value="```" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="451" y="30" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="o-YJnA2EUqc50f2uyItU-16" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="o-YJnA2EUqc50f2uyItU-1" target="o-YJnA2EUqc50f2uyItU-2">
           <mxGeometry relative="1" as="geometry">
