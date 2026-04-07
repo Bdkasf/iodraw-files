@@ -1,35 +1,71 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0" version="24.7.17">
-  <diagram name="第 1 页" id="sDEFIzCnavz_VZRuJ2A_">
+  <diagram name="第 1 页" id="vN-PkhQqBIVyJ3-2nOn1">
     <mxGraphModel dx="1202" dy="731" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="i25ZRBu0b-cY8WC9Szsy-1" value="用户执行关键操作" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="280" y="40" width="188" height="49" as="geometry" />
+        <mxCell id="k_blgQjONOpiYwLh-7J8-1" value="进入会员管理页面" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="107" y="20" width="188" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="i25ZRBu0b-cY8WC9Szsy-2" value="系统写入操作日志" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="280" y="139" width="188" height="49" as="geometry" />
+        <mxCell id="k_blgQjONOpiYwLh-7J8-2" value="选择会员" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="139" y="119" width="124" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="i25ZRBu0b-cY8WC9Szsy-3" value="进入操作审计页面" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="280" y="238" width="188" height="49" as="geometry" />
+        <mxCell id="k_blgQjONOpiYwLh-7J8-3" value="输入充值金额" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="123" y="218" width="156" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="i25ZRBu0b-cY8WC9Szsy-4" value="查看日志记录" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="296" y="337" width="156" height="49" as="geometry" />
+        <mxCell id="k_blgQjONOpiYwLh-7J8-4" value="金额是否有效" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="129" y="317" width="145" height="145" as="geometry" />
         </mxCell>
-        <mxCell id="i25ZRBu0b-cY8WC9Szsy-5" value="```" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="518" y="50" width="60" height="30" as="geometry" />
+        <mxCell id="k_blgQjONOpiYwLh-7J8-5" value="提示金额无效" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="20" y="535" width="156" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="i25ZRBu0b-cY8WC9Szsy-6" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="i25ZRBu0b-cY8WC9Szsy-1" target="i25ZRBu0b-cY8WC9Szsy-2">
+        <mxCell id="k_blgQjONOpiYwLh-7J8-6" value="更新会员余额" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="226" y="535" width="156" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="k_blgQjONOpiYwLh-7J8-7" value="写入充值记录" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="226" y="634" width="156" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="k_blgQjONOpiYwLh-7J8-8" value="刷新会员信息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="226" y="733" width="156" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="k_blgQjONOpiYwLh-7J8-9" value="```" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="345" y="30" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="k_blgQjONOpiYwLh-7J8-10" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="k_blgQjONOpiYwLh-7J8-1" target="k_blgQjONOpiYwLh-7J8-2">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="i25ZRBu0b-cY8WC9Szsy-7" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="i25ZRBu0b-cY8WC9Szsy-2" target="i25ZRBu0b-cY8WC9Szsy-3">
+        <mxCell id="k_blgQjONOpiYwLh-7J8-11" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="k_blgQjONOpiYwLh-7J8-2" target="k_blgQjONOpiYwLh-7J8-3">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="i25ZRBu0b-cY8WC9Szsy-8" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="i25ZRBu0b-cY8WC9Szsy-3" target="i25ZRBu0b-cY8WC9Szsy-4">
+        <mxCell id="k_blgQjONOpiYwLh-7J8-12" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="k_blgQjONOpiYwLh-7J8-3" target="k_blgQjONOpiYwLh-7J8-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k_blgQjONOpiYwLh-7J8-13" value="否" style="curved=1;startArrow=none;endArrow=block;exitX=0.02;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="k_blgQjONOpiYwLh-7J8-4" target="k_blgQjONOpiYwLh-7J8-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="98" y="499" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k_blgQjONOpiYwLh-7J8-14" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0.97;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="k_blgQjONOpiYwLh-7J8-4" target="k_blgQjONOpiYwLh-7J8-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="304" y="499" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k_blgQjONOpiYwLh-7J8-15" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="k_blgQjONOpiYwLh-7J8-6" target="k_blgQjONOpiYwLh-7J8-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k_blgQjONOpiYwLh-7J8-16" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="k_blgQjONOpiYwLh-7J8-7" target="k_blgQjONOpiYwLh-7J8-8">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
