@@ -19,16 +19,11 @@
         <mxCell id="4wDlF7Djv2WkwEUpA_HG-5" value="读取项目标价" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="133" y="300" width="156" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="4wDlF7Djv2WkwEUpA_HG-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="4wDlF7Djv2WkwEUpA_HG-6">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="211" y="420" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="4wDlF7Djv2WkwEUpA_HG-6" value="计算会员折扣" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="133" y="515" width="156" height="49" as="geometry" />
+          <mxGeometry x="133" y="370" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="4wDlF7Djv2WkwEUpA_HG-7" value="计算实付金额与赠送积分" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="93" y="614" width="236" height="49" as="geometry" />
+          <mxGeometry x="93" y="450" width="236" height="49" as="geometry" />
         </mxCell>
         <mxCell id="4wDlF7Djv2WkwEUpA_HG-8" value="选择支付方式" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="133" y="713" width="156" height="49" as="geometry" />
@@ -102,7 +97,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4wDlF7Djv2WkwEUpA_HG-29" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="4wDlF7Djv2WkwEUpA_HG-7" target="4wDlF7Djv2WkwEUpA_HG-8">
+        <mxCell id="4wDlF7Djv2WkwEUpA_HG-29" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.25;entryX=0.5;entryY=0;rounded=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="4wDlF7Djv2WkwEUpA_HG-7" target="4wDlF7Djv2WkwEUpA_HG-8">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
