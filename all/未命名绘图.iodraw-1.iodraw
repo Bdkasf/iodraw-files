@@ -41,7 +41,7 @@
           <mxGeometry x="250" y="500" width="220" height="49" as="geometry" />
         </mxCell>
         <mxCell id="97mAf6U9G7aBORvAxY8k-27" value="DatabaseManager" style="whiteSpace=wrap;strokeWidth=2;fontSize=25;" vertex="1" parent="1">
-          <mxGeometry x="700" y="650" width="220" height="49" as="geometry" />
+          <mxGeometry x="690" y="630" width="220" height="49" as="geometry" />
         </mxCell>
         <mxCell id="97mAf6U9G7aBORvAxY8k-28" value="QSqlQuery" style="whiteSpace=wrap;strokeWidth=2;fontSize=25;" vertex="1" parent="1">
           <mxGeometry x="250" y="630" width="220" height="49" as="geometry" />
