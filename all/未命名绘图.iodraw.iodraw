@@ -49,16 +49,16 @@
           <mxGeometry x="305" y="490" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="Jfw2tQfTeO33Q57Rp1w0-36" value="进入登录界面" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="289" y="580" width="156" height="49" as="geometry" />
+          <mxGeometry x="289" y="560" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="Jfw2tQfTeO33Q57Rp1w0-37" value="输入账号、密码、角色" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="257" y="688" width="220" height="49" as="geometry" />
+          <mxGeometry x="257" y="630" width="220" height="49" as="geometry" />
         </mxCell>
         <mxCell id="Jfw2tQfTeO33Q57Rp1w0-38" value="信息是否填写完整" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="496" y="787" width="177" height="177" as="geometry" />
         </mxCell>
         <mxCell id="Jfw2tQfTeO33Q57Rp1w0-39" value="提示输入不完整" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="160" y="1037" width="172" height="49" as="geometry" />
+          <mxGeometry x="80" y="700" width="172" height="49" as="geometry" />
         </mxCell>
         <mxCell id="Jfw2tQfTeO33Q57Rp1w0-40" value="调用登录验证接口" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="490" y="1037" width="188" height="49" as="geometry" />
