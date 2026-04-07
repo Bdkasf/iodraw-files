@@ -14,7 +14,7 @@
           <mxGeometry x="250" y="218" width="252" height="49" as="geometry" />
         </mxCell>
         <mxCell id="fom5yYNhUgjhsplKfidb-4" value="是否余额结算" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="304" y="317" width="145" height="145" as="geometry" />
+          <mxGeometry x="261" y="300" width="230" height="100" as="geometry" />
         </mxCell>
         <mxCell id="fom5yYNhUgjhsplKfidb-5" value="写入消费记录" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="298" y="634" width="156" height="49" as="geometry" />
