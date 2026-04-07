@@ -76,7 +76,7 @@
           <mxGeometry x="1060" y="599" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="4wDlF7Djv2WkwEUpA_HG-21" value="刷新消费记录和看板" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1190" y="669" width="204" height="49" as="geometry" />
+          <mxGeometry x="1200" y="660" width="204" height="49" as="geometry" />
         </mxCell>
         <mxCell id="4wDlF7Djv2WkwEUpA_HG-23" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="4wDlF7Djv2WkwEUpA_HG-1" target="4wDlF7Djv2WkwEUpA_HG-2">
           <mxGeometry relative="1" as="geometry">
@@ -150,7 +150,7 @@
             <mxPoint x="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4wDlF7Djv2WkwEUpA_HG-43" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.14;entryY=0;rounded=0;" edge="1" parent="1" source="4wDlF7Djv2WkwEUpA_HG-18" target="4wDlF7Djv2WkwEUpA_HG-20">
+        <mxCell id="4wDlF7Djv2WkwEUpA_HG-43" value="" style="startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.14;entryY=0;rounded=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="4wDlF7Djv2WkwEUpA_HG-18" target="4wDlF7Djv2WkwEUpA_HG-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4wDlF7Djv2WkwEUpA_HG-44" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.85;entryY=0;rounded=0;" edge="1" parent="1" source="4wDlF7Djv2WkwEUpA_HG-19" target="4wDlF7Djv2WkwEUpA_HG-20">
