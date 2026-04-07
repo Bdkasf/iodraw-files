@@ -5,25 +5,22 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="97mAf6U9G7aBORvAxY8k-1" value="用户层&#xa;管理员 / 前台工作人员" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="35" y="20" width="222" height="67" as="geometry" />
+          <mxGeometry x="245" y="70" width="222" height="67" as="geometry" />
         </mxCell>
         <mxCell id="97mAf6U9G7aBORvAxY8k-2" value="界面表现层&#xa;登录界面 / 欢迎引导页 / 主界面" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="28" y="137" width="235" height="84" as="geometry" />
+          <mxGeometry x="238" y="187" width="235" height="84" as="geometry" />
         </mxCell>
         <mxCell id="97mAf6U9G7aBORvAxY8k-3" value="功能模块层&#xa;会员管理、消费结算、积分兑换、预约调度、报表统计等" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="20" y="271" width="252" height="102" as="geometry" />
+          <mxGeometry x="230" y="321" width="252" height="102" as="geometry" />
         </mxCell>
         <mxCell id="97mAf6U9G7aBORvAxY8k-4" value="业务逻辑层&#xa;MemberService" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="61" y="423" width="170" height="67" as="geometry" />
+          <mxGeometry x="271" y="473" width="170" height="67" as="geometry" />
         </mxCell>
         <mxCell id="97mAf6U9G7aBORvAxY8k-5" value="数据访问层&#xa;DatabaseManager + QSqlQuery" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="47" y="539" width="199" height="84" as="geometry" />
+          <mxGeometry x="257" y="589" width="199" height="84" as="geometry" />
         </mxCell>
         <mxCell id="97mAf6U9G7aBORvAxY8k-6" value="数据存储层&#xa;MySQL" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="76" y="673" width="140" height="67" as="geometry" />
-        </mxCell>
-        <mxCell id="97mAf6U9G7aBORvAxY8k-7" value="```" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="307" y="38" width="60" height="30" as="geometry" />
+          <mxGeometry x="286" y="723" width="140" height="67" as="geometry" />
         </mxCell>
         <mxCell id="97mAf6U9G7aBORvAxY8k-8" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="97mAf6U9G7aBORvAxY8k-1" target="97mAf6U9G7aBORvAxY8k-2">
           <mxGeometry relative="1" as="geometry">
