@@ -8,25 +8,25 @@
           <mxGeometry x="331" y="30" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="yGH4qePVHIzP8h_ANEZK-2" value="显示欢迎引导页" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="307" y="129" width="172" height="49" as="geometry" />
+          <mxGeometry x="307" y="110" width="172" height="49" as="geometry" />
         </mxCell>
         <mxCell id="yGH4qePVHIzP8h_ANEZK-3" value="点击开始协同管理" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="299" y="228" width="188" height="49" as="geometry" />
+          <mxGeometry x="299" y="190" width="188" height="49" as="geometry" />
         </mxCell>
         <mxCell id="yGH4qePVHIzP8h_ANEZK-4" value="进入系统主界面" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="307" y="327" width="172" height="49" as="geometry" />
+          <mxGeometry x="307" y="270" width="172" height="49" as="geometry" />
         </mxCell>
         <mxCell id="yGH4qePVHIzP8h_ANEZK-5" value="进入报表统计页面" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="299" y="426" width="188" height="49" as="geometry" />
+          <mxGeometry x="299" y="340" width="188" height="49" as="geometry" />
         </mxCell>
         <mxCell id="yGH4qePVHIzP8h_ANEZK-6" value="显示趋势图" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="323" y="525" width="140" height="49" as="geometry" />
+          <mxGeometry x="323" y="430" width="140" height="49" as="geometry" />
         </mxCell>
         <mxCell id="yGH4qePVHIzP8h_ANEZK-7" value="是否放大查看" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="273" y="600" width="240" height="106" as="geometry" />
+          <mxGeometry x="273" y="510" width="240" height="106" as="geometry" />
         </mxCell>
         <mxCell id="yGH4qePVHIzP8h_ANEZK-8" value="正常查看图表" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="180" y="760" width="204" height="49" as="geometry" />
+          <mxGeometry x="170" y="660" width="204" height="49" as="geometry" />
         </mxCell>
         <mxCell id="yGH4qePVHIzP8h_ANEZK-9" value="双击放大并滚轮缩放" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="414" y="760" width="204" height="49" as="geometry" />
