@@ -23,7 +23,7 @@
           <mxGeometry x="522" y="271" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="LUN7ujRJ9Dw9Ekqw7Z7X-7" value="预约调度" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1296" y="41" width="124" height="49" as="geometry" />
+          <mxGeometry x="1044" y="180.5" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="LUN7ujRJ9Dw9Ekqw7Z7X-8" value="报表统计" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1877" y="41" width="124" height="49" as="geometry" />
@@ -86,13 +86,13 @@
           <mxGeometry x="740" y="90" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="LUN7ujRJ9Dw9Ekqw7Z7X-29" value="预约录入" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1122" y="140" width="124" height="49" as="geometry" />
+          <mxGeometry x="870" y="279.5" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="LUN7ujRJ9Dw9Ekqw7Z7X-30" value="冲突校验" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1296" y="140" width="124" height="49" as="geometry" />
+          <mxGeometry x="1044" y="279.5" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="LUN7ujRJ9Dw9Ekqw7Z7X-31" value="状态处理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1470" y="140" width="124" height="49" as="geometry" />
+          <mxGeometry x="1218" y="279.5" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="LUN7ujRJ9Dw9Ekqw7Z7X-32" value="趋势图" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1644" y="140" width="108" height="49" as="geometry" />
@@ -234,7 +234,7 @@
         <mxCell id="LUN7ujRJ9Dw9Ekqw7Z7X-68" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.86;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="LUN7ujRJ9Dw9Ekqw7Z7X-7" target="LUN7ujRJ9Dw9Ekqw7Z7X-29">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1184" y="115" />
+              <mxPoint x="932" y="254.5" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -246,7 +246,7 @@
         <mxCell id="LUN7ujRJ9Dw9Ekqw7Z7X-70" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.86;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="LUN7ujRJ9Dw9Ekqw7Z7X-7" target="LUN7ujRJ9Dw9Ekqw7Z7X-31">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1532" y="115" />
+              <mxPoint x="1280" y="254.5" />
             </Array>
           </mxGeometry>
         </mxCell>
